@@ -1,0 +1,1580 @@
+classy shark panel void file parent frame parent frame set title binary archive get name load and fill display area binary archive is data loaded toolbar activate navigation buttons files tree set visible root methods count panel load file binary archive
+classy shark panel boolean key event e get key code
+reducer list string list list string result array list found entry index string camel search key string entry list camel search key entry camel search key camel search key replace all found entry index entry index of key camel search key equals ignore case key found entry index result add entry result
+main boolean list args as array is empty args as array size args as array get equals ignore case
+message runnable void icon icon image icon get class get resource icon path j option pane show confirm dialog changelog title j option pane default option j option pane information message icon
+tab panel boolean key event e get key code
+export file writer void reducer file file writer writer file writer string current class reducer get all classes names translator source generator translator factory create translator current class loaded file source generator apply writer write source generator to string writer close
+classy shark panel list string translator translator factory create translator name binary archive reducer get all class names translator apply translator get elements list
+base action string action type get action name
+base action string action type get action name
+base action string action type get action name
+procedure manager boolean block m procedure references get get procedure name block m procedure references get get procedure name block is empty
+pending drag block view m root block view
+turtle activity list adapter array adapter android r layout simple list item activated android r id text string
+blockly sections activity list adapter m levels adapter array adapter android r layout simple list item activated android r id text string get string r string title section get string r string title section get string r string title section m levels adapter
+abstract blockly activity void asset manager asset manager get assets string toolbox path get toolbox contents xml path blockly controller controller get controller controller load toolbox contents asset manager open get toolbox contents xml path io exception e illegal argument exception toolbox path e
+field boolean string set text text
+field boolean string m checked boolean parse boolean text
+field boolean string set colour color parse color text illegal argument exception e
+field boolean string set selected value text
+field adapter boolean m spinner stack trace element stack trace runtime exception get stack trace i i stack trace length i stack trace i to string contains
+flyout controller void view string flyout category category category is variable category m controller m controller request add variable
+blockly controller block group block block group boolean m workspace add root block block is new block m workspace view bg bg m view factory build block group tree block m workspace get connection manager m touch handler bg set touch handler m touch handler m workspace view add view bg is new block has callback blockly event type create add pending event blockly event create event m workspace block bg
+blockly controller boolean block boolean root found and removed m workspace remove root block block cleanup stats root found and removed block view bv m helper get view block bv block group group bv get parent block group group m workspace view remove view group cleanup stats m dragger remove from dragging connections block root found and removed
+procedure manager boolean block block get name starts with procedure definition prefix
+abstract blockly activity boolean m controller close flyouts
+workspace helper void workspace point view point view point out set workspace to view units m rt l workspace point in x workspace point in x workspace to view units workspace point in y
+block void runnable m event workspace id runnable run m controller group and fire events runnable
+abstract blockly activity boolean string blockly controller controller get controller controller is variable in use variable list block blocks controller get blocks with variable variable blocks size m delete dialog set controller controller m delete dialog set variable variable blocks size m delete dialog show get support fragment manager
+workspace helper int int m density workspace value
+workspace helper int int view value m density
+split activity code generation request. code generator callback m code generator callback
+field date string date format format m date
+js line preserving printer void string equals text trim pending space out append pending space out append text pending space
+plugin meta boolean debug mode
+rewrite flash stage boolean string s s length
+quasi node map parse tree node list parse tree node specimens array list parse tree node specimens add specimen map string parse tree node bindings hash map string parse tree node consume specimens specimens bindings bindings
+json void json array object object member members a add to json value member
+playground view void string string string label i label message source line num playground ui runtime messages add i
+measurement set double measurements measurements length
+benchmark class immutable set method method superclass get declared method method set accessible immutable set of method no such method exception e assertion error
+experimenting caliper run listenable future throwable null future
+runner void string parse args args prepare suite prepare parameters do run in process result result run out of process console report result display results
+simple benchmark map immutable map of
+simple benchmark map immutable map of
+runner void class benchmark suite suite class class benchmark suite class for name suite class name benchmark suite is assignable from suite class configuration exception suite class constructor benchmark suite constructor suite class get declared constructor suite constructor new instance invocation target exception e execution exception e get cause exception e configuration exception e
+host builder map properties put all properties
+caliper runner module listening executor service caliper config pool size integer parse int config properties get runner max parallelism option more executors listening decorator executors new fixed thread pool pool size
+caliper config module immutable map caliper options file config file caliper options caliper config file config file exists util load properties files as byte source config file io exception keep going byte source supplier util resource supplier caliper config try copy if needed supplier config file util load properties supplier io exception e assertion error e
+aggregate allocations recorder void check state recording allocation count set allocation size set recording
+runner void double system out printf nanos per trial
+inline properties boolean node traversal node root t get scope root js doc info info node util get best js doc info root info info is constructor
+extern exports pass void node parent get child count node this node parent get first child node name arg this node get next node value arg name arg get next name arg is string exports add symbol export name arg get string value arg
+extern exports pass void node parent get child count node this node parent get first child node object arg this node get next node name arg object arg get next node value arg name arg get next object arg is qualified name name arg is string exports add property export object arg get qualified name name arg get string value arg
+proxy object type int referenced type hash code
+all type int system identity hash code
+production coverage instrumentation callback node node node default block ir block node add child to back default block default block use source info if missing from for tree node
+compiler void stale inputs compiler input input inputs options dependency options needs management input get provides is empty input get requires is empty hoist if extern input stale inputs stale inputs repartition inputs
+default pass config compiler pass abstract compiler inline properties compiler
+default pass config hot swap compiler pass abstract compiler variable reference check compiler options aggressive var check
+default pass config compiler pass abstract compiler collapse anonymous functions compiler
+default pass config compiler pass abstract compiler variable map prev property map options input property map compiler pass process node externs node root property map run property renaming compiler prev property map externs root
+default pass config compiler pass abstract compiler expand jquery aliases compiler
+default pass config compiler pass abstract compiler check side effects strip protection compiler
+default pass config compiler pass abstract compiler clear typed scope
+default pass config compiler pass abstract compiler enable block inlining is inlining forbidden inline functions compiler compiler get unique name id supplier options inline functions options inline local functions enable block inlining options assume strict this options get language in language mode ecmascript strict
+default pass config compiler pass abstract compiler compiler pass process node externs node js root map string integer new css names options gather css names new css names maps new hash map replace css names pass replace css names compiler new css names options css renaming whitelist pass process externs js root css names new css names
+default pass config hot swap compiler pass abstract compiler list callback callbacks lists new array list options check unreachable code is on callbacks add check unreachable code compiler options check unreachable code options check missing return is on options check types callbacks add check missing return compiler options check missing return combine checks compiler callbacks
+default pass config compiler pass abstract compiler compiler pass process node externs node js root name reference graph construction gc name reference graph construction compiler string report file name options name reference report path name reference graph report report name reference graph report gc get name reference graph files write report get html report file report file name charsets utf io exception e compiler report js error make name ref report file error e get message report file name
+default pass config compiler pass abstract compiler create synthetic blocks compiler options synthetic block start marker options synthetic block end marker
+default pass config compiler pass abstract compiler inline variables compiler inline variables mode constants only
+default pass config compiler pass abstract compiler late peephole optimizations pass compiler peephole substitute alternate syntax late peephole replace known methods late peephole remove dead code peephole fold constants late peephole collect property assignments
+default pass config hot swap compiler pass abstract compiler global type resolver compiler
+default pass config compiler pass abstract compiler runtime type check compiler options runtime type check log function
+default pass config compiler pass abstract compiler compiler pass process node externs node root compiler set life cycle stage life cycle stage raw
+default pass config compiler pass abstract compiler run in serial options custom passes get execution time
+default pass config compiler pass abstract compiler unreachable code elimination compiler
+default pass config compiler pass abstract compiler var check compiler
+default pass config compiler pass abstract compiler flow sensitive inline variables compiler
+default pass config compiler pass abstract compiler is inlining forbidden error pass compiler cannot use prototype and var inline variables mode mode options inline variables mode inline variables mode all options inline local variables mode inline variables mode locals only illegal state exception inline variables compiler mode
+default pass config hot swap compiler pass abstract compiler hot swap compiler pass process node externs node js root namespace for checks hot swap script node script root node original root process
+default pass config compiler pass abstract compiler optimize arguments array compiler
+default pass config compiler pass abstract compiler peephole optimizations pass compiler exploit assigns
+default pass config compiler pass abstract compiler rename labels compiler
+default pass config compiler pass abstract compiler inline object literals compiler compiler get unique name id supplier
+default pass config compiler pass abstract compiler replace messages compiler options message bundle js message style get from params
+default pass config compiler pass abstract compiler group variable declarations compiler
+default pass config compiler pass abstract compiler closure code removal compiler options remove abstract methods options remove closure asserts
+default pass config compiler pass abstract compiler pure function identifier driver compiler options debug function side effects path
+default pass config compiler pass abstract compiler inline simple methods compiler
+default pass config compiler pass abstract compiler specialize module compiler devirtualize prototype methods inline functions remove unused prototype properties
+default pass config compiler pass abstract compiler object property string preprocess compiler
+default pass config compiler pass abstract compiler alias keywords compiler
+default pass config hot swap compiler pass abstract compiler check access controls compiler
+default pass config compiler pass abstract compiler collapse properties compiler options collapse properties on extern types is inlining forbidden
+default pass config compiler pass abstract compiler extract prototype member declarations compiler pattern use global temp
+default pass config compiler pass abstract compiler ast validator
+default pass config compiler pass abstract compiler coding convention convention compiler get coding convention convention get export symbol function export test functions compiler convention get export symbol function convention get export property function error pass compiler generate exports error
+default pass config compiler pass abstract compiler alias strings compiler compiler get module graph options alias all strings options aliasable strings options alias strings blacklist options output js string usage
+default pass config compiler pass abstract compiler cross module code motion compiler compiler get module graph
+default pass config compiler pass abstract compiler compiler pass process node externs node root replace strings pass replace strings compiler options replace strings placeholder token options replace strings function descriptions options replace strings reserved strings options replace strings input map pass process externs root string map pass get string map
+default pass config compiler pass abstract compiler options check types error pass compiler tighten types without type check tighten types tighten types compiler tighten types
+default pass config compiler pass abstract compiler mark no side effect calls compiler
+default pass config hot swap compiler pass abstract compiler check requires for constructors compiler options check requires
+default pass config hot swap compiler pass abstract compiler maybe initialize preprocessor symbol table compiler process closure primitives pass process closure primitives compiler preprocessor symbol table options broken closure requires level hot swap compiler pass process node externs node root pass process externs root exported names pass get exported variable names hot swap script node script root node original root pass hot swap script script root original root
+default pass config compiler pass abstract compiler alias externals compiler compiler get module graph options unaliasable globals options aliasable globals
+inline object literals void node scope node util visit pre order root node util visitor visit node node node is name stale vars add scope get var node get string node util match not function
+remove unused vars void node scope node property node object literal get first child property node property node property node get next property node is string key property node is quoted string mark property name referenced property node get string traverse node property node get first child scope traverse node property node scope
+js type boolean unsupported operation exception
+compiler result run in compiler thread callable result call exception result compile internal get result
+check requires for constructors void node getprop getprop getprop get first child weak usages put getprop get qualified name getprop
+collect function names string string string lhs delimiter rhs
+all type int system identity hash code
+parse tree module import tree module import tree
+node boolean token token block
+conformance rules boolean string name equals name starts with closure rewrite module is module content name closure rewrite module is module export name
+raw nominal type set set string own props linked hash set own props add all class props key set own props add all proto props key set own props
+inline functions void iterator entry string function state i i fns entry set iterator i has next function state fs i next get value fs has existing function definition fs can inline i remove
+object type object type nominal type object type make object type cl
+convert to typed interface void node traversal node node jsdoc node node util get best js doc info node name node js doc info jsdoc jsdoc node get js doc info is inferrable const jsdoc name node node rhs node util get r value of l value name node rhs js doc info new jsdoc get js doc for rhs t rhs jsdoc new jsdoc jsdoc node set js doc info new jsdoc compiler report code change
+js type boolean truthy mask get mask true mask get mask
+check access controls void property reference visibility js type static source file static source file reference source defining source reference source get name equals defining source get name object type owner type instance type for object type visibility package check package property visibility prop ref reference source defining source private check private property visibility prop ref owner type protected check protected property visibility prop ref owner type
+js type boolean is constructor is interface function type fn to maybe function type fn fn get source fn is native object type
+peephole optimizations pass void abstract compiler node root is function root root get last child handler reset node traversal traverse compiler root peep callback retraverse on change handler has code changed
+prototype object type int is structural type objects hash class name properties system identity hash code
+node node preconditions check state parent parent remove child
+remove unused vars boolean use site simple definition finder is call or new site site node util is function object apply site node get parent
+polymer class rewriter void polymer class definition node check not null properties literal check state properties literal is object lit node parent properties literal get parent node obj reflect call ir call node util new q name compiler cls target clone tree properties literal detach use source info if missing from for tree properties literal parent add child to front obj reflect call compiler report change to enclosing scope parent
+js type js type is enum element iterables get only element get enums get enumerated type
+object type boolean property property subtype cache prop is optional prop prop get type is subtype of prop get type sub super map prop prop is optional prop get type is subtype of prop get type sub super map
+abstract command line runner string config charset is empty charset is supported config charset flag usage exception config charset config charset
+no object type int system identity hash code
+remove unused vars boolean property name
+transpilation passes void list passes add es convert super constructor calls
+function type builder parameters immutable list of
+function type builder list parameters parameters
+type inference flow scope node flow scope n is qualified name js type type get js type n js type narrowed type restrict by not null or undefined type equals narrowed scope narrow scope scope n narrowed scope
+collapse properties void name boolean can collapse child names n can collapse ref ref n get declaration string fn name ref node get string add stubs for undeclared properties n fn name ref node get ancestor ref node get parent
+prototype object type boolean string is native object type js type property type get property type property name object type native type is function type registry get native object type js type native function prototype registry get native object type js type native object prototype js type native property type native type get property type property name property type native property type
+unknown type int system identity hash code
+js doc info parser void string int int error reporter warning script runtime get message message id source name lineno charno
+js doc info parser void string string int int error reporter warning script runtime get message message id message arg source name lineno charno
+pure function identifier boolean get mask function throws mask taints global state mask taints this mask taints arguments mask
+proxy object type int referenced type hash code
+function type js type preconditions check not null nominal type js type from object type object type from nominal type nominal type
+no object type int system identity hash code
+pure function identifier boolean node node util is function object call call site node util is function object apply call site
+enum element type string name
+declared function type boolean string type parameters contains tvar receiver type receiver type is uninstantiated generic type raw nominal type raw type receiver type get raw nominal type raw type get type parameters contains tvar
+check js doc void node js doc info info info get template type names is empty info is constructor or interface is class decl n info contains function declaration is function decl n report misplaced n report misplaced n
+ast validator void node validate node type token default case n validate child count n token arity token default case validate synthetic block n get last child
+ast validator void node n get type token name validate name n token getprop validate get prop n
+node util js doc info node preconditions check state n get type token function js doc info fn info n get js doc info fn info node util is function expression n node parent n get parent parent get type token assign fn info parent get js doc info parent get type token name fn info parent get parent get js doc info fn info
+node util node node preconditions check argument fn node get type token function fn node get first child get next
+js type boolean nominal type nt get nominal type if singleton obj nt nt is generic
+abstract command line runner command line config string warnings allow file file name
+node node first first first
+global type info string name
+node util boolean string token stream is js identifier name token stream is keyword name is latin name
+check js doc boolean node n n is name n has children is class n get first child
+export void export check not null e local name check state e export node check state e export name check state e module request check state e import name check state e name node
+js type node string preconditions check state is singleton obj get obj type if singleton obj get own property def site property name
+js type node string preconditions check state is singleton obj get obj type if singleton obj get property def site property name
+node util boolean node is numeric result n is boolean result n is undefined n is null n
+node util boolean node n get type token true token false token eq token ne token sheq token shne token lt token gt token le token ge token in token instanceof token not
+js type boolean falsy mask get mask
+js type boolean truthy mask get mask
+simple format void string builder result append arg
+optimize parameters boolean list node any movable cur cur is spread movable is movable value cur global scope parameter p parameter cur movable set parameter side effect info p cur parameters add p movable any movable cur cur get next any movable
+js type int int mask true mask false mask mask true mask false mask mask
+scope boolean name node name node get boolean prop node is constant var name node get boolean prop node is constant name
+js type int preconditions check state is function type get fun type if singleton obj get max arity
+js type int preconditions check state is function type get fun type if singleton obj get min arity
+global namespace type i compiler get type i registry get native object type global this
+type transformation js type js type type registry create union type variants
+parser parse tree peek token type spread parse spread expression parse assignment expression
+type transformation parser boolean node is type var expr warn invalid expr
+remove unused code boolean node n is get prop n get last child get string equals
+cleanup passes hot swap compiler pass abstract compiler global var ref cleanup pass compiler
+cleanup passes hot swap compiler pass abstract compiler field cleanup pass compiler
+union type int hashcode
+global type info declared function type declared type
+parser immutable list immutable list builder parse tree result immutable list builder peek token type close curly peek token type end of file result add parse script element result build
+parser parse tree peek interface declaration parse interface declaration peek export declaration parse export declaration parse ambient declaration helper
+typed scope js type string static typed slot js type slot get slot type name slot slot get type
+parser parse tree pattern kind source position start get tree start location eat token type spread parse tree pattern assignment target parse rest assignment target pattern kind assignment rest element tree get tree location start pattern assignment target
+transpilation passes void list passes add late convert es to es passes add rewrite generators
+global type info void iterator string it local fun defs key set iterator it has next string name it next name contains it remove local namespaces local class defs local typedefs
+flow sensitive inline variables boolean node node predicate node p n p expression root p p get parent node cur p get next cur cur cur get next predicate apply cur
+value type int system identity hash code
+type utils string string first dot q name index of first dot q name q name substring first dot
+collapse properties void name boolean can collapse child names n can collapse ref ref n get declaration string fn name ref node get string add stubs for undeclared properties n fn name ref node get ancestor ref node get parent
+js type boolean is singleton obj get nominal type if singleton obj is literal object
+nominal type raw nominal type raw type
+make declared names unique string string index index of separator name index name name substring index
+node util boolean node is assignment op n n is assign
+function type int node params get parameters node params node last param params get last child last param last param is var args params get child count integer max value
+namespace boolean string property prop other props get pname prop check state prop is optional
+compiler definition use site finder def finder
+compiler void definition use site finder def finder def finder
+code change handler void has changed
+node void token token token
+node token token
+compiler void options record function information record function information options dev mode dev mode start and end run sanity check set progress tracker tracker output tracer report
+invalidating types builder multimap invalidation map invalidation map
+compiler options boolean assume strict this
+statement fusion void node node node val stmt remove child after stmt get first child node comma fuse expression into expression exp val stmt add child after comma stmt get first child
+module metadata map boolean module type module type script
+abstract scope s s scope get closest hoist scope scope is block scope scope scope get parent check state scope is block scope scope
+es rewrite generators node node ir objectlit ir propdef ir string key value ir propdef ir string key ir false node
+rewrite async functions boolean function is present function get is async function
+unknown type int system identity hash code
+value type int system identity hash code
+js type js type string object type autobox obj type object type cast autoboxes to autobox obj type autobox obj type find property type property name
+type transformation boolean node name resolver string params eval string params ttl ast name resolver i i params length i params i equals string name get call name ttl ast keywords keyword name to keyword name keyword streq params equals params illegal state exception
+js type boolean location
+node util boolean node n is script n has children is goog module call n get first child
+compiler executor executor service executors new single thread executor thread factory new thread runnable r thread thread t thread r compiler stack size t set daemon t
+unknown type string is checked
+new ir factory node parse tree tree new node token empty transform tree
+js type boolean is singleton obj get nominal type if singleton obj is literal object
+linked flow scope flow scope static typed scope typed scope typed scope typed scope scope scope syntactic scope linked flow scope trim scopes typed scope typed scope function scope
+compiler source file string source file from file filename
+type transformation parser boolean node expr is name expr is string warn invalid expr expr get string equals warn invalid expr
+expression decomposer void node i decomposition type decomposable can expose expression expression expose expression expression i i max interations illegal state exception expression to string tree
+node util boolean node node get token string key getter def setter def member function def
+type transformation parser boolean node int i i param count i valid type transformation expression get call argument expr i warn invalid inside expr
+abstract var boolean name node name node get boolean prop node is constant var name node get boolean prop node is constant name
+abstract command line runner diagnostic groups diagnostic groups
+code change handler void has changed
+new type inference js type js type js type js type specialized type inferred specialize required specialized type is inhabitable required specialized type
+new type inference type env get out env cfg get entry get value
+prepare ast void node node node preconditions check state objlit get type token objectlit key get js doc info value get type token function value set js doc info key get js doc info
+parser boolean peek expression peek token type spread
+compiler compiler pass abstract compiler sanity check compiler
+definitions remover void function detach from parent
+definitions remover void illegal argument exception
+definitions remover void function replace child function get first child node new string token name
+definitions remover void node var name get parent preconditions check state var get first child var get last child node parent var get parent node r value name remove first child preconditions check state parent get type token for parent replace child var node util new expr r value
+definitions remover void literal remove child name literal remove child value
+definitions remover void illegal argument exception
+production coverage instrumentation callback long next unique identifier next unique identifier
+transpilation passes void list passes add late convert es to es passes add rewrite generators
+proxy object type int referenced type hash code
+feature set feature set typescript
+node traversal scope scope scope scopes peek i i scope roots size i scope scope creator create scope scope roots get i scope scopes push scope scope roots clear scope
+unknown type int system identity hash code
+transpilation passes void list passes add late convert es to es passes add rewrite generators
+arrow type int hash code objects hash code return type parameters node param parameters get first child param hash code hash code objects hash code param get js type param param get next hash code
+union type int hashcode
+remove unused code boolean is named property assignment is computed property assignment
+new type inference env type pair node type env type env env in env node arg call node get first child get next arg arg arg get next env analyze expr fwd arg env env env type pair env js type unknown
+enum type js type js types preconditions check state enum prop type persistent map string property prop map other props string s props prop map prop map with s property make constant enum prop type enum prop type object type obj object type make object type prop map object kind unrestricted with named types common types obj
+unreachable code elimination void abstract compiler node control flow analysis cfa control flow analysis compiler cfa process root control flow graph node cfg cfa get cfg graph reachability cfg compute cfg get entry get value root is function root root get last child code changed node traversal traverse es compiler root elimination pass cfg code changed
+destructured target js type object pattern key infer object pattern key type infer array pattern target type
+abstract peephole optimization void diagnostic type node js error error js error make node util get source name n n diagnostic n to string compiler report error
+default pass config void list compiler options options allows hotswap replace script checks add inline type aliases options check types options infer types checks add resolve types checks add infer types options check types checks add check types checks add infer js doc info options preserves detailed source info options allows hotswap replace script checks add clear typed scope pass
+make declared names unique renamer boolean inline renamer convention unique id supplier id prefix hoisted
+make declared names unique renamer boolean inline renamer convention unique id supplier id prefix remove constness hoisting target scope
+transpilation passes void list passes add late convert es to es passes add es for of passes add rewrite block scoped function declaration passes add rewrite block scoped declaration passes add rewrite generators passes add es convert super constructor calls
+type transformation parser boolean node expr get child count rawtypeof param count warn missing param expr expr get child count rawtypeof param count warn extra param expr valid ttl type expression expr get child at index warn invalid inside expr
+type transformation parser boolean node is operation expr warn invalid expression expr string keyword expr get first child get string is keyword keyword keywords none warn invalid expression expr expr get child count warn extra param expr
+pretty printer void css value node sb append sb append node get value sb append
+compact printer void css value node sb append sb append node get value sb append
+open ssl signature long evp pkey ctx
+conscrypt file descriptor socket string ssl utils to protocol string ssl get application protocol
+platform void socket long struct timeval tv struct timeval from millis timeout millis os setsockopt timeval s get file descriptor sol socket so sndtimeo tv errno exception errno exception errno exception rethrow as socket exception
+java socket wrapper string ssl engine list unsupported operation exception
+java socket wrapper string ssl socket list selector apply socket protocols
+platform void socket long struct timeval tv struct timeval from millis timeout millis os setsockopt timeval s get file descriptor sol socket so sndtimeo tv errno exception errno exception errno exception rethrow as socket exception
+java engine wrapper string ssl engine list selector apply engine protocols
+java file descriptor socket bi function selector
+java engine socket void bi function selector selector set application protocol selector to application protocol selector selector
+conscrypt engine string ssl utils to protocol string ssl get application protocol
+java engine wrapper void bi function selector selector set application protocol selector to application protocol selector selector
+ssl parameters impl string string string protocols length obsolete protocol equals protocols empty string array array list string new protocols array list string protocol protocols obsolete protocol equals protocol new protocols add protocol new protocols to array empty string array
+conscrypt engine string ssl utils to protocol string ssl get application protocol
+java engine wrapper bi function selector
+java engine wrapper void bi function selector selector set application protocol selector to application protocol selector selector
+jmh server socket benchmark void bytes per second counter benchmark throughput
+gerrit endpoint review result string string set review input location do set review change id revision id review input repo exception validation exception runtime exception e eval exception location e
+capturing console void message type string capture types contains type messages add message type message
+transform work transform work skylark dict preconditions check not null params transform work checkout dir metadata changes console migration info resolved reference tree state inside explicit transform last rev current rev params
+options t class<? extends t> option config config get option class config illegal state exception option class t config
+git integrate changes void git repository general options git destination options message info transform result do integrate repository general options result message info cannot integrate exception e git destination options ignore integration errors ignore errors logger log level warning e e repo exception e git destination options ignore integration errors ignore errors logger log level severe e e
+workflow o last revision flag origin resolve last revision flag repo exception e repo exception last revision flag e string previous ref writer get previous ref origin get label name previous ref origin resolve previous ref
+transform work string string pattern pattern pattern compile label regex label pattern multiline matcher matcher pattern matcher get message matcher find matcher group
+map config file string path
+workflow workflow options workflow options
+feedback context action result string action result error error msg
+command output string string stderr standard charsets utf
+command output string string stdout standard charsets utf
+general options profiler profiler
+replace mapper reversible function immutable list builder replace builder immutable list builder replace replace replaces builder add replace reverse replace mapper builder build all
+file util path string path string escaped url percent escaper escape url escaped url length repo folder name limit escaped url escaped url substring repo folder name limit hashing sha hash string escaped url substring repo folder name limit standard charsets utf repo storage resolve escaped url
+change info string created
+change info string submitted
+map mapper reversible function map mapper immutable bi map copy of map inverse location illegal argument exception e non reversible validation exception location map e get message
+github options http transport net http transport
+type variable expr type type environment env resolve
+dart list boolean next index size next index
+dart list boolean size
+dart list t t array next index
+dart list void int size new length array arrays copy of array size generic array type
+dart list void size array t array new instance generic type default size
+dart list t size runtime exception array
+dart list t size runtime exception array size
+dart list t t element array size array size size element
+dart list boolean object i i size i array i element
+dart list boolean size
+dart list void int t is array full increase size i size i index i array i array i array index element
+dart list int boolean next index size next index
+dart list int boolean object element integer int value integer element i i size i array i int value
+dart list int void int int is array full increase size i size i index i array i array i array index element
+dart list int void int int size index index runtime exception array index value
+dart list int dart.core. list interface int int int runtime exception
+dart list int int int array index
+dart list int void int size new length array arrays copy of array size
+dart list int int size runtime exception array
+dart list int int size
+dart list int int size runtime exception array size
+dart list int boolean object other
+string helper string int string char code
+job utils string uuid preconditions check not null job id base encoding base url encode job id to string get bytes charsets utf
+portability core module common settings object mapper mapper object mapper yaml factory input stream in common settings get class loader get resource as stream common settings common settings mapper read value in common settings common settings io exception e illegal argument exception e
+in memory idempotent import executor t string string callable execute or throw exception idempotent id item name callable io exception e
+yaml settings extension void input stream in settings hash map object mapper mapper object mapper yaml factory settings mapper read value in map io exception e runtime exception e
+job dao void portability job map string object existing storage get job id preconditions check argument existing map string object data job as map storage put get string data id data key data
+portability configuration secrets secrets exception e exception in initializer error e
+google contacts service structured name name structured name structured name structured name structured name set family person name get family name structured name set given person name get given name structured name get prefixes add person name get honorific prefix structured name get suffixes add person name get honorific suffix structured name
+microsoft photos importer string string name chars map to obj c c map c character is letter or digit c character is whitespace c c limit map object collect collectors joining
+scene grip void target xrot target xoff target zrot target yoff target zoff hundred percent zoom
+abstract analysis wizard void i progress monitor graph document monitor set task name i file file get output file monitor worked monitor set task name resource cache store graph document file graph monitor worked
+node filter view part i file string i path name path path from os string filter name name path add file extension contextual filter document extension resource container filters contextual filter resources get container i path tree path filters get path i path dest path tree path append name path i file edit path get editor get save as file i project proj edit path get project proj get file dest path
+node editor tool void has editor graph data node display property hierarchy get display hierarchy node tree view update data hierarchy
+abstract new resource wizard void i progress monitor t monitor set task name i file file get output file monitor worked monitor set task name abstract doc xml persist t persist get doc xml persist storage tools save document file doc persist monitor monitor worked monitor set task name file refresh local i resource depth zero monitor worked
+new file system wizard graph document i progress monitor file system analyzer analyzer file system analyzer page get tree prefix page get path text analyzer generate analysis document monitor
+java script builtin element string builtin name
+relation set table control void invert relations get input
+relation set table control void check relations get input
+view editor void rectangle d rectangle d drawing listeners fire event listener manager dispatcher drawing listener dispatch drawing listener listener listener update drawing bounds drawing viewport capture exception runtime exception err any logger warning err any to string
+gl scene void float float target xoff cam x target yoff cam y is scene changed
+view void map gl panel get rendering pipe get layout set layout new locations
+java script field element string enum name
+collapse tool button composite string button result button parent swt push result set text text result
+gl panel graph node node rendering property graph node nodes graph node props length n node rendering property prop props nodes n prop node nodes
+matchers matcher kind matcher t matches t tree visitor state state tree get kind kind
+bug checker set all names
+bug checker class<? extends annotation> custom suppression annotation
+bug checker string canonical name
+preconditions expensive string refactor method invocation tree visitor state member select tree method member select tree method invocation tree get method select list expression tree arguments method invocation tree get arguments method invocation tree string format method invocation tree arguments get suggested fix fix refactor arguments get format method get identifier to string fix
+well known mutability builder set class clazz clazzs add clazz
+prefer duration overload boolean method invocation tree visitor state type long type state get symtab long type type time unit type state get type from string list var symbol params get symbol tree get parameters params size is same type params get as type long type state is same type params get as type time unit type state
+scanner set< class<? extends annotation>> collections class annotation empty set
+rect intersect return value ignored description method invocation tree visitor state describe match method invocation tree
+empty if statement refactor empty statement tree visitor state next stmt is null parent node next statement is null statement tree matches tree state state get path get parent path get leaf get kind if if tree parent if tree state get path get parent path get leaf suggested fix fix suggested fix next stmt is null fix delete parent fix delete parent get then statement refactor parent fix
+constructor class matcher impl parameter matcher iterable parameter matcher impl immutable list copy of parameters
+thread safety boolean type variable symbol type parameter annotation symbol get annotation mirrors stream any match t t type tsym flat name content equals type parameter annotation get name
+guice overrides javax injectable method boolean method symbol string compound c method get annotation mirrors type element c get annotation type as element get qualified name content equals annotation
+error checker position tree diagnostic position pos jc tree tree pos position pos get start position pos get end position state compilation unit end positions
+guice overrides guice injectable method boolean method symbol string compound c method get annotation mirrors type element c get annotation type as element get qualified name content equals annotation
+iso int char int byte int int i i len i c sa sp c da dp c i
+hash set node event listener void node event node filter contains e nodes add node node indirect canonicalization node usage node usages nodes add usage
+counted loop info boolean end constant node iv is constant init iv is constant stride
+krb as rep sun.security.krb .internal.ccache. credentials sun security krb internal ccache credentials rep
+class void method method candidate methods modifier is static candidate get modifiers add candidate
+context error manager errors
+javac parser jc expression term type
+splitter node continue node search jump target continue node get target node continue node get target label continue node
+splitter node return node split node split split stack split set has return return node
+splitter node break node search jump target break node get target node break node get target label break node
+splitter node for node register jump target for node for node
+splitter node do while node register jump target do while node do while node
+splitter node switch node register jump target switch node switch node
+splitter node label node register jump target label node get break node register jump target label node get continue node label node
+ssl session context impl int cache limit string s java security access controller do privileged java security privileged action string run string system get property cache limit s integer value of s int value exception e cache limit cache limit
+jmod task module reader unsupported operation exception
+uninitialized type uninitialized type type metadata uninitialized type tag qtype offset md
+hmac core byte first md update k ipad first tmp md digest md update k opad md update tmp md digest tmp tmp length tmp digest exception e provider exception e
+hmac core int md get digest length
+hmac core void first md reset first
+schema grammar xs attribute group decl xs wildcard decl wildcard xs wildcard decl wildcard f process contents xs wildcard decl pc lax xs attribute group decl attr grp xs attribute group decl attr grp f attribute wc wildcard attr grp
+code blob address header begin add offset to data offset field get value addr
+node intrinsification provider stamp class boolean java kind kind java kind from java class type kind java kind object resolved java type return type meta access lookup java type type word types is word return type word types get word stamp return type stamp factory object type reference create without assumptions return type non null stamp factory for kind kind
+weigh nodes node binary node binary node weight binary node
+source boolean compare to jdk
+member enter void import from tsym
+member enter void java file object prev log use source env toplevel sourcefile diagnostic position prev lint pos defer pos prev lint pos deferred lint handler set pos defer pos actual enter type annotations annotations env sym prev lint pos deferred lint handler set pos prev lint pos log use source prev
+weigh nodes node unary node unary node weight unary node
+weigh nodes node unary node unary node weight unary node
+resolve symbol env method resolution phase find fun env name argtypes typeargtypes phase is boxing required phase is varargs required
+resolve symbol env method resolution phase find method env site name argtypes typeargtypes phase is boxing required phase is varargs required
+handler interceptor t handler
+weigh nodes node break node weight break weight break node
+weigh nodes node var node weight var weight var node
+weigh nodes node continue node weight continue weight continue node
+weigh nodes node block weight cache weight cache contains key block weight weight cache get block block
+weigh nodes node throw node weight throw weight throw node
+weigh nodes node with node weight with weight with node
+lower node break node enter break or continue break node
+lower node if node node pass if node get pass node fail if node get fail pass is terminal fail fail is terminal set terminal if node add statement if node unnest if node if node
+lower node label node block body label node get body body accept copy terminal label node body add statement label node
+lower node call node node function marker function call node get function call node set function function check eval call node call node
+lower node if node nest if node
+lower node continue node nesting contains node get target node escapes add node node
+lower node throw node add statement throw node throw node
+lower node try node block finally body try node get finally body all terminal try node get body is terminal finally body finally body is terminal block catch block try node get catch blocks all terminal catch block is terminal try node set is terminal all terminal add statement try node unnest try node finally body try node set finally body add statement finally body try node
+lower node break node escapes add node node
+lower node return node add statement return node return node
+lower node while node nest while node
+module void module string m impl add exports or opens pn module everyone module
+method emitter void label int label debug peek type pop type type int method visit lookup switch insn default label values table
+method emitter method emitter string string string debug class name method name method descriptor invoke invokestatic class name method name method descriptor
+method emitter void int int label label debug peek type pop type type int method visit table switch insn lo hi default label table
+jar file string get name
+scope void scope that sub scopes sub scopes prepend that that add scope listener mark scope listener sl listeners sl symbol added
+checks boolean string next off next name index of off is java identifier name off next off off next count name length off is java identifier name off count
+member enter void java file object prev log use source local env toplevel sourcefile chk validate annotations annotations s log use source prev
+member enter void java file object prev log use source env toplevel sourcefile diagnostic position prev lint pos defer pos prev lint pos deferred lint handler set pos defer pos actual enter type annotations annotations env sym prev lint pos deferred lint handler set pos prev lint pos log use source prev
+member enter void import from tsym
+member enter void java file object prev log use source local env toplevel sourcefile chk validate annotation tree default value log use source prev
+objects t t supplier<? extends t> obj obj require non null require non null supplier get
+objects t t t obj obj require non null default obj
+membership key impl byte group address
+membership key impl multicast channel ch
+membership key impl inet address group
+membership key impl inet address source
+jc tree jc expression qualid
+base phase void node event node graph is new mark node node is alive e node event input changed e node event zero usages changed
+code generator node index node method dynamic set index get call site flags
+code generator node access node method dynamic set node get property get type node get property get name get call site flags
+code generator node access node access node test resolved load access node
+code generator node ident node load ident ident node
+code generator node access node base already on stack load access node get base convert type object method peek type is object method dynamic get node get type access node get property get name get call site flags access node is function
+code generator node continue node continue node test resolved i i continue node get scope nesting level i close with method split aware goto continue node get target label
+code generator node unary node node token type token type convert node get symbol method convert node rhs get type node
+attr void list attribute type compound compounds from annotations annotations type type annotations compounds
+reflection check linker boolean class type class class loader is assignable from type string name type get name name starts with name starts with
+date time formatter builder boolean date time print context string builder buf append literal
+date time formatter builder boolean date time print context string builder buf append literal
+deferred attr deferred type type metadata assertion error
+symbol a class javac elements get annotations anno type
+code generator void method load callee method invoke script function get scope method store scope
+zoned date time local date time date time
+n method address header begin add offset to get scopes data offset
+scope symbol symbol sym curr entry curr entry sym curr entry curr entry curr entry sibling update sym
+ssl context impl cipher suite list clear available cache supported cipher suite list supported cipher suite list get applicable cipher suite list get suported protocol list supported cipher suite list
+membership key impl inet address source
+membership key impl inet address group
+membership key impl int group address
+membership key impl byte group address
+windows file store disk free space get disk free space ex root windows exception x x rethrow as io exception root
+profile string name
+synth separator ui void j component uninstall listeners j separator c uninstall defaults j separator c
+token void int int ref
+attr node property node property node set symbol symbol property node get key name type object end property node property node
+attr node ternary node node lhs ternary node rhs node rhs ternary node third ensure type not unknown lhs ensure type not unknown rhs type type type widest lhs get type rhs get type new temporary type ternary node end ternary node ternary node
+attr node object node new temporary type object object node end object node object node
+attr node index node new temporary type object index node index node
+attr node function node to object node node is lazy node
+attr node try node try node set exception exception symbol try node get finally body try node set finally catch all exception symbol end try node try node
+attr node function node node is lazy node
+attr node index node node index index node get index index get symbol set needs slot index get symbol is constant index node
+attr node access node new temporary type object access node end access node access node
+js type object script object object null or undefined obj type error global script runtime safe to string obj obj script object obj global object global wrap as object obj
+nodes long empty long array
+nodes int array count copy into array array
+nodes double empty double array
+nodes long array count copy into array array
+nodes int empty int array
+nodes double array length cur size array arrays copy of array cur size
+label boolean stack sp other sp i i sp i data i is equivalent to other data i
+jmod task module reader unsupported operation exception
+field t class objects require non null annotation class annotation support get multiple annotations declared annotations annotation class
+wrap wrap string no wrap source
+scope symbol symbol sym curr entry curr entry sym curr entry curr entry curr entry sibling update sym
+annotate void annotator q append a
+base encoder int byte objects require non null line separator base decoder from base b line separator base b illegal argument exception integer to string b line length encoder rfc encoder line separator line length
+concurrent hash map double long to double bi function<? super k,? super v> double double binary operator transformer reducer null pointer exception map reduce mappings to double task k v batch for parallelism threshold table transformer basis reducer invoke
+source boolean compare to jdk
+scope void scope that sub scopes sub scopes prepend that that add scope listener mark scope listener sl listeners sl symbol added
+integer less than node integer lower than node value node value node integer less than node x y
+x choice peer void graphics choice choice choice target color colors get gu icolors draw d rect g get system colors width height draw d rect g get system colors width height helper paint all items g colors get bounds
+archive string path path to string filename
+header container void int container put int at size
+java file manager location location string unsupported operation exception
+node node copy copy state
+type annotations void java file object old source log use source env toplevel sourcefile type annotation positions scan tree log use source old source
+type annotations void java file object old source log use source env toplevel sourcefile attr validate type annotations tree log use source old source
+main pair certificate key store ks get certificate alias cert pair cert enumeration string aliases ks aliases aliases has more elements string name aliases next element certificate trusted cert ks get certificate name trusted cert cert verify trusted cert get public key pair name trusted cert exception e
+jmod task string collection c is empty c stream map e e to string to lower case locale root sorted collect joining
+element impl soap element name impl iterator each child get child element nodes each child has next soap element child soap element each child next child get element name equals name child
+chrono field boolean ordinal day of week ordinal ordinal era ordinal
+chrono field boolean ordinal day of week ordinal
+javac task impl iterable<? extends element> analyze
+javac task impl iterable<? extends java file object> generate
+wrap wrap string no wrap source
+zip file system entry byte index node inode get inode path inode entry entry inode inode inode pos entry read cen inode pos
+basic internal frame ui boolean object sender j internal frame j internal frame i frame j internal frame sender i frame get ui basic internal frame ui basic internal frame ui i frame get ui is key binding active
+x text field peer void graphics xtext xtext paint g
+inlining util boolean debug context debug context scope s debug scope inlining decisions scope string debug is log enabled
+bean linker method handle method handle linker services call site descriptor class source type desc get method type parameter type type utilities is method invocation convertible source type number mh ls can convert source type number method handle converter ls get type converter source type number method handles filter arguments mh converter as type converter type change return type mh type parameter type mh
+lambda to method string type l m signature generator sg l m signature generator sg assemble sig type sg to string
+jar file jar file entry is multi release string entry name get name entry name equals name jar file entry entry name
+javadoc enter javadoc enter context enter instance context get enter key instance instance javadoc enter context javadoc enter instance
+n method address header begin add offset to get scopes data offset
+constant pool boolean ptr minus
+constant pool boolean ptr minus
+locations collection lazy search path
+locations void iterable<? extends path> files search path is default search path p search path add files files search path collections unmodifiable collection p option values clear
+locations collection lazy search path
+utils boolean element is included e configuration javafx has block tag e doc tree kind unknown block tag has block tag e doc tree kind hidden
+debug logger boolean level get level int value level int value
+fold constants node function node function node is lazy function node
+fold constants node binary node literal node literal node binary node constant evaluator binary node eval literal node log info binary node literal node literal node binary node
+fold constants node ternary node node test ternary node lhs test literal node literal node test is true ternary node rhs ternary node third ternary node
+fold constants node function node function node set state compilation state constant folded function node
+fold constants node unary node literal node literal node unary node constant evaluator unary node eval literal node log info unary node literal node literal node unary node
+doc lint void javac task string init task args
+c platform window boolean lw window peer blocker peer peer get blocker blocker blocker c printer dialog peer c platform window p window c platform window blocker get platform window p window order above siblings ns window ptr p window get ns window ptr c wrapper ns window order front regardless ns window ptr c wrapper ns window make key and order front ns window ptr c wrapper ns window make main window ns window ptr
+array list void int mod count min capacity element data length grow min capacity
+symbol metadata void complete ctx
+module boolean string exports contains key pn exports get pn is empty
+script function data method handle method handle method type type handle type method type new type type generic is var arg new type new type change parameter type type parameter count object needs callee new type new type change parameter type script function type equals new type handle handle as type new type
+node operator visitor node binary node leave default binary node
+node operator visitor boolean binary node enter default binary node
+utils boolean element is included e configuration javafx has block tag e doc tree kind unknown block tag has block tag e doc tree kind hidden
+check list list list list type unhandled list nil list type l thrown l non empty l l tail is handled l head handled unhandled unhandled prepend l head unhandled
+jdeps configuration boolean string all module path equals name all default equals name all system equals name
+fold constants node binary node literal node literal node binary node constant evaluator binary node eval literal node log info binary node literal node literal node binary node
+fold constants node function node function node is lazy function node
+fold constants node if node node test if node get test test literal node block short cut literal node test is true if node get pass if node get fail short cut execute node short cut empty node if node if node
+fold constants node ternary node node test ternary node lhs test literal node literal node test is true ternary node rhs ternary node third ternary node
+type annotations void java file object old source log use source env toplevel sourcefile attr validate type annotations tree log use source old source
+resolve symbol env method resolution phase find fun env name argtypes typeargtypes phase is boxing required phase is varargs required
+resolve symbol env method resolution phase find method env site name argtypes typeargtypes phase is boxing required phase is varargs required
+standard location boolean module source path annotation processor module path upgrade module path system modules module path
+server connection impl map http exchange get request headers
+standard location boolean module source path annotation processor module path upgrade module path system modules module path
+stub string runtime version version get request context get binding provider endpoint address property
+x list peer void graphics painter paint g get first visible item get last visible item paint all
+native js adapter boolean object object method handle object script function res self native js adapter native js adapter self get adaptee adaptee res getter getter invoke exact where func runtime exception error e e throwable t runtime exception t res
+json writer node try node enter default try node type comma property try node get body accept comma array try node get catches comma property node finally node try node get finally body finally node finally node accept null value leave default try node
+json writer node access node enter default access node type comma property access node get base accept comma property access node get property accept comma property leave default access node
+json writer node case node enter default case node type comma node test case node get test property test test accept null value comma array case node get body get statements leave default case node
+json writer node binary node enter default binary node string name binary node is assignment name is logical binary node token type name name type name comma property binary node token type get name comma property binary node lhs accept comma property binary node rhs accept leave default binary node
+json writer node return node enter default return node type comma node arg return node get expression property arg arg accept null value leave default return node
+json writer node do while node enter default do while node type comma property do while node get body accept comma property do while node get test accept leave default do while node
+json writer node ternary node enter default ternary node type comma property ternary node lhs accept comma property ternary node rhs accept comma property ternary node third accept leave default ternary node
+m bean support object resource
+debug logger boolean level get level int value level int value
+digest base int byte int int ofs limit ofs block size impl compress b ofs ofs
+messager void nerrors notice nerrors nerrors nwarnings notice nwarnings nwarnings
+messager void string string nwarnings max warnings print writer warn writer get writer writer kind warning print raw lines warn writer prefix get text msg warn writer flush nwarnings
+messager void string string nerrors max errors print writer err writer get writer writer kind error print raw lines err writer prefix get text msg err writer flush prompt nerrors
+source boolean compare to jdk
+java file manager location location string unsupported operation exception
+java file manager iterable location unsupported operation exception
+java file manager location location java file object string unsupported operation exception
+print visitor node line number node print line numbers line number node to string sb
+print visitor node with node with node to string sb with node get body accept
+print visitor node call node call node to string sb
+print visitor node label node indent tabwidth indent indent tabwidth labeled node to string sb labeled node get body accept
+print visitor node execute node node expression execute node get expression expression unary node expression to string sb expression accept
+print visitor node throw node throw node to string sb
+print visitor node continue node continue node to string sb
+print visitor node runtime node runtime node to string sb
+print visitor node split node sb append sb append eoln indent tabwidth indent split node
+javac task impl iterable<? extends java file object> generate
+from generic string add type string target
+resolve symbol env type name list list scope symbol boolean boolean boolean boolean symbol s sc get elements by name name lookup filter abstractok best so far select best env site argtypes typeargtypes s best so far allow boxing use varargs operator best so far
+log void print writer string nl nl msg index of writer println msg substring nl msg msg substring nl msg length writer println msg
+code blob address header begin add offset to data offset field get value addr
+source boolean compare to jdk
+frame boolean assert asserts enabled assert that vm get vm is core code blob cb vm get vm get code cache find blob get pc cb cb is runtime stub
+type void method visitor call method visit method insn invokestatic call class name call name call descriptor
+method handles boolean allowed modes private
+deferred attr deferred type type metadata assertion error
+counter mode int byte int int byte int result len len used block size embedded cipher encrypt block counter encrypted counter increment counter used out out off in in off encrypted counter used result
+finalize types node access node set can be primitive access node get property get symbol
+finalize types node return node node expr return node get expression expr return node set expression convert expr get current function node get return type return node
+finalize types node while node node test while node get test test while node set test convert test type boolean while node
+finalize types node ident node exclude contains ident node set can be primitive ident node get symbol
+finalize types node execute node execute node set expression discard execute node get expression execute node
+java file manager location location string unsupported operation exception
+archive string filename
+integer below node integer lower than node value node value node integer below node x y
+m bean support object resource
+plain view boolean string class class class module this module plain view get module this module equals cls get module cls get declared method method fp types exception e cls get declared method method int types exception e cls cls get superclass
+basic split pane divider void invalidate split pane split pane revalidate
+pisces rendering engine void p d close path
+adapter method handle method handle method type method handle int class method type old type target type can prim cast new type old type arg conv type class src new type parameter type arg conv make conv op prim to prim arg basic type src basic type conv type adapter method handle target new type conv
+dtls input record boolean set has ccs has fin record fragment fragment fragments fragment content type record ct change cipher spec has fin has ccs fragment content type record ct handshake fragment is ciphertext has ccs has fin has fin has ccs
+to generic string entry type prims at end order
+x text field peer void graphics xtext xtext paint g
+type unknown type type metadata assertion error
+type package type type metadata assertion error
+type bottom type type metadata assertion error
+type for all type metadata assertion error
+type jc void type type metadata assertion error
+type union class type type metadata assertion error
+constant pool boolean ptr minus
+ui defaults void string bundle name resource bundles resource bundles vector string resource bundles contains bundle name resource bundles add bundle name resource cache clear
+lower node return node add statement return node return node
+lower node switch node nest switch node switch node
+lower node try node block finally body try node get finally body all terminal try node get body is terminal finally body finally body is terminal block catch block try node get catch blocks all terminal catch block is terminal try node set is terminal all terminal add statement try node unnest try node finally body try node set finally body add statement finally body try node
+lower node continue node enter break or continue continue node
+lower node var node add statement var node var node
+lower node continue node nesting contains node get target node escapes add node node
+lower node label node block body label node get body body accept copy terminal label node body add statement label node
+array index int string from string key
+configuration impl content content builder
+source boolean compare to jdk
+julian fields boolean temporal accessor temporal is supported epoch day
+code generator void method load callee method invoke script function get scope method store scope
+configuration impl content content builder
+main boolean manifest ename attributes global m get main attributes global get attributes name main class error get msg usage error
+hot spot resolved java field impl int offset
+long pipeline double stream double pipeline stateless op long stream shape long value stream op flag not sorted stream op flag not distinct op wrap sink flags sink double sink sink long sink chained long sink accept t downstream accept t
+log java file object source source get file
+type enter void env jc class decl tree env encl class class symbol sym tree sym sym owner kind pck resolve imports env toplevel env enclosing toplevel todo append env sym owner kind typ sym owner complete
+date time formatter builder date time formatter builder append internal chrono printer parser
+date time formatter builder boolean date time print context string builder buf append literal
+runtime int version compare ob
+runtime boolean object ob ob version version that version ob version equals that version pre equals that pre build equals that build
+attr void list attribute type compound compounds from annotations annotations type type annotations compounds
+print stream t t string obj null pointer exception message obj
+x window void component int int int int paint event event paint event dispatcher get paint event dispatcher create paint event target x y w h event post event to event queue event
+minimal future minimal future minimal future
+xml util boolean boolean xml security disabled runtime disabled
+http request builder impl duration duration
+annotated type factory t class annotation support get multiple annotations annotations annotation
+get integer action integer string system get security manager integer get integer the prop access controller do privileged get integer action the prop
+locations location path path locations path locations get dir
+locations iterable module locations collections empty set set location locns linked hash set module locations for each k v locns add v collections singleton locns
+locations location string module locations module locations get name
+locations location string init system modules system modules get name
+locations location string module locations module locations hash map location l module locations get name l l module location handler location get name name name collections singleton output dir resolve name module locations put name l l
+generator base void port operation operation port get operations operation accept
+function node boolean get flag has apply to call specialization
+method type method type class method type make impl rtype ptypes ptypes
+method type method type class make impl rtype no ptypes
+visible member map boolean type element class map get type element members is empty
+jc tree jc expression qualid
+code int pending jumps resolve pending pending stat pos position nopos mark stat begin fixed pc cp
+compiled function boolean optimism info
+javac parser jc expression term type
+messager void string string nerrors max errors print writer err writer get writer writer kind error print raw lines err writer prefix get text msg err writer flush prompt nerrors
+messager void nerrors notice nerrors nerrors nwarnings notice nwarnings nwarnings
+array deque int int int int i distance modulus i modulus i
+native string boolean int key key value length
+concurrent hash map double long to double bi function<? super k,? super v> double double binary operator transformer reducer null pointer exception map reduce mappings to double task k v batch for parallelism threshold table transformer basis reducer invoke
+http request builder impl duration duration
+finalize types node runtime node list node args runtime node get args node arg args arg get type is unknown runtime node
+finalize types node throw node throw node set expression convert throw node get expression type object throw node
+finalize types node execute node execute node set expression discard execute node get expression execute node
+finalize types node index node exclude add index node get base index node
+finalize types node if node if node set test convert if node get test type boolean if node
+finalize types node while node node test while node get test test while node set test convert test type boolean while node
+comparator comparator to int function<? super t> objects require non null key extractor comparator t serializable c c integer compare key extractor apply as int c key extractor apply as int c
+comparator comparator to long function<? super t> objects require non null key extractor comparator t serializable c c long compare key extractor apply as long c key extractor apply as long c
+m bean support object resource
+json writer node var node enter default var node type comma array start object start location var node get name type comma property var node get name to string comma property node init var node get init init init accept null value object end array end leave default var node
+json writer node ident node enter default ident node string name ident node get name equals name type type comma property ident node get name leave default ident node
+json writer node catch node enter default catch node type comma property catch node get exception accept comma node guard catch node get exception condition property guard guard accept null value comma property catch node get body accept leave default catch node
+json writer node switch node enter default switch node type comma property switch node get expression accept comma array switch node get cases leave default switch node
+json writer node binary node enter default binary node string name binary node is assignment name is logical binary node token type name name type name comma property binary node token type get name comma property binary node lhs accept comma property binary node rhs accept leave default binary node
+json writer node throw node enter default throw node type comma property throw node get expression accept leave default throw node
+container void int parent parent adjust descendants num
+objects t t obj null pointer exception obj
+javac task impl iterable<? extends java file object> generate
+invoker bytecode generator void mv visit maxs mv visit end
+activation socket address server socket get local socket address
+arrays void object int int range check a length from index to index object aux copy of range a from index to index merge sort aux a from index to index from index
+arrays void t comparator<? super t> t aux a clone c merge sort aux a a length merge sort aux a a length c
+arrays void object object aux a clone merge sort aux a a length
+locations collection search path
+locations void iterable<? extends path> search path p files p compute path p create path add files files search path collections unmodifiable collection p
+locations void iterable<? extends path> files search path is default search path p search path add files files search path collections unmodifiable collection p option values clear
+hash set node event listener void node event node filter contains e nodes add node node indirect canonicalization node usage node usages nodes add usage
+structured graph allow assumptions boolean flag yes no
+archive string filename
+renderer void line to pix sx pix sy
+method handle impl string add type string target
+method handle impl string add type string allocate class get simple name
+hot spot jvmci runtime map< class<? extends architecture>, jvmci backend> collections unmodifiable map backends
+dev poll array wrapper void file dispatcher impl close int fd wfd poll array free
+plain view boolean string class class class module this module plain view get module this module equals cls get module cls get declared method method fp types exception e cls get declared method method int types exception e cls cls get superclass
+calendar name provider impl string string int int int locale get display name impl calendar type field value style locale
+nodes int empty int array
+nodes double array length cur size array arrays copy of array cur size
+pkix revocation checker void x certificate ocsp responder cert cert
+pkix revocation checker map map x certificate copy hash map ocsp responses size map entry x certificate e ocsp responses entry set copy put e get key e get value clone copy
+relative path path path directory string sep file systems get default get separator paths get path replace sep string sep directory get file system get separator directory resolve path replace sep
+node operator visitor node unary node leave default unary node
+node operator visitor node unary node leave default unary node
+node operator visitor boolean unary node enter default unary node
+node operator visitor boolean unary node enter default unary node
+sparc hot spot safepoint op void compilation result builder sparc macro assembler graal hot spot vm config boolean lir frame state register crb record mark at return config markid poll return far config markid poll far state pos masm position crb record infopoint pos state infopoint reason safepoint masm ldx sparc address safepoint poll address g
+member enter void java file object prev log use source env toplevel sourcefile import from tsym found log error pos kind name static name list type nil list type nil kinds type kind name tsym type tsym type log use source prev
+member enter void java file object prev log use source local env toplevel sourcefile chk validate annotations annotations s log use source prev
+member enter void import from tsym
+member enter void java file object prev log use source local env toplevel sourcefile chk validate annotation tree default value log use source prev
+slot boolean get short name get short name length
+frame boolean assert asserts enabled assert that vm get vm is core code blob cb vm get vm get code cache find blob get pc cb cb is runtime stub
+member enter void java file object prev log use source local env toplevel sourcefile chk validate annotations annotations s log use source prev
+member enter void java file object prev log use source env toplevel sourcefile import from tsym found log error pos kind name static name list type nil list type nil kinds type kind name tsym type tsym type log use source prev
+member enter void java file object prev log use source local env toplevel sourcefile enter default value default value local env m log use source prev
+get integer action integer string int integer value system get security manager value integer get integer the prop value access controller do privileged get integer action the prop value value default val
+resolve symbol env method resolution phase find method env site name argtypes typeargtypes phase is boxing required phase is varargs required
+resolve symbol env method resolution phase find fun env name argtypes typeargtypes phase is boxing required phase is varargs required
+d stroker void double double int prev move to cx x cy y prev drawing op to finish outcode prev move to cx x cy y cdx cdy
+dispatch interceptor void object name n queue string key get handler key name validate handler name for key name handler map t exists handler map get key exists illegal argument exception key t ns create interceptor for key name jmx namespace post register queue handler map put key ns
+wrap wrap string no wrap source
+long string long int buf char pos radix shift mask radix buf char pos integer digits i mask i shift i string buf char pos char pos
+internal debug control boolean j shell int debug map integer flags debug map get state flags flags flag
+source boolean compare to jdk
+parameter t class objects require non null annotation class annotation support get multiple annotations declared annotations annotation class
+ui defaults void string bundle name resource bundles resource bundles vector string resource bundles contains bundle name resource bundles add bundle name resource cache clear
+media tracker void image int int int head media entry insert head image media entry image id w h
+reflection check linker boolean class type class class loader is assignable from type string name type get name name starts with name starts with
+bound method handle string add type string base name
+application shutdown hooks void collection thread threads application shutdown hooks threads hooks key set hooks thread hook threads hook start thread hook threads hook join interrupted exception x
+schedule phase void node event node e node
+archive string path path to string filename
+objects t t string obj null pointer exception message obj
+objects t t obj null pointer exception obj
+type annotations void java file object old source log use source env toplevel sourcefile attr validate type annotations tree log use source old source
+type annotations void java file object old source log use source env toplevel sourcefile type annotation positions scan tree log use source old source
+http client impl executor executor
+array list void int mod count min capacity element data length grow min capacity
+calendar name provider impl map string int int locale map string integer names names get display names impl calendar type field style locale names is empty names
+local date time local date date
+normalizer impl boolean int norm min yes no
+phase int get end live nodes get start live nodes
+source boolean compare to jdk
+basic list ui boolean object object name get name name select previous column change lead name select next column change lead name select previous row change lead name select next row change lead name select first row change lead name select last row change lead name scroll up change lead name scroll down change lead c j list c get selection model default list selection model
+print visitor node switch node switch node to string sb sb append list case node cases switch node get cases case node case node cases sb append eoln indent case node to string sb indent tabwidth case node get body accept indent tabwidth sb append eoln sb append eoln indent sb append
+print visitor node with node with node to string sb with node get body accept
+print visitor node split node sb append sb append eoln indent tabwidth indent split node
+print visitor node continue node continue node to string sb
+print visitor node execute node node expression execute node get expression expression unary node expression to string sb expression accept
+print visitor node while node while node to string sb while node get body accept
+print visitor node access node access node to string sb
+print visitor node for node for node to string sb for node get body accept
+zoned date time local date time date time
+header container void int container put int at size
+print stream t t string obj null pointer exception message obj
+code int pending jumps resolve pending pending stat pos position nopos mark stat begin fixed pc cp
+profile string name
+decoder void int capacity illegal argument exception capacity capacity capacity
+compiled function boolean optimism info
+parser property key type ident get ident set is property name octal legacy is strict mode error abstract parser message token string escstring decimal hexadecimal octal binary number floating get literal get identifier name set is property name
+symbol a class javac elements get annotations anno type
+label boolean stack sp other sp i i sp i data i is equivalent to other data i
+bound method handle string add type string base name
+node operator visitor node unary node leave default unary node
+jmod task path string path path cwd resolve value files not exists path command exception path files is directory path command exception path path invalid path exception x command exception value
+attr void list attribute type compound compounds from annotations annotations type type annotations compounds
+pkix revocation checker void x certificate ocsp responder cert cert
+pkix revocation checker list collections unmodifiable list ocsp extensions
+pkix revocation checker x certificate ocsp responder cert
+pkix revocation checker map map x certificate copy hash map ocsp responses size map entry x certificate e ocsp responses entry set copy put e get key e get value clone copy
+chrono field value range temporal accessor temporal range
+stroker void float float int prev move to cx x cy y prev drawing op to finish outcode prev move to cx x cy y cdx cdy
+local date time local time time
+internal debug control boolean j shell int debug map integer flags debug map get state flags flags flag
+temporal unit publicboolean temporal temporal plus runtime exception ex temporal plus runtime exception ex
+int pipeline double stream double pipeline stateless op integer stream shape int value stream op flag not sorted stream op flag not distinct op wrap sink flags sink double sink sink integer sink chained int sink accept t downstream accept t
+method type form class class int class cs imax ts length i i imax i class c canonicalize ts i how c c c cs cs ts clone cs i c cs
+server connection impl map http exchange get request headers
+user accessor property void accessors string object object object func gs setter func script function get invoke ua setter invoke exact func self value error runtime exception t t throwable t runtime exception t name type error name script runtime safe to string self
+code generator boolean unary node load add unary node result bounds
+transform x path boolean string str index of str index of
+resolve symbol env type name list list scope symbol boolean boolean boolean boolean symbol s sc get elements by name name lookup filter abstractok best so far select best env site argtypes typeargtypes s best so far allow boxing use varargs operator best so far
+unix path string to string
+method handle impl method handle method handle method type int array length target type parameter count spread arg pos spread arguments target new type spread arg pos object array length
+deoptimize node deoptimization action action
+chrono unit boolean compare to days
+filter generic string add type string target
+script runtime boolean object object equals num or str js type to primitive any
+dtls input record boolean set has ccs has fin record fragment fragment fragments fragment content type record ct change cipher spec has fin has ccs fragment content type record ct handshake fragment is ciphertext has ccs has fin has fin has ccs
+type method type type metadata assertion error
+type intersection class type type metadata assertion error
+type unknown type type metadata assertion error
+linked blocking queue void e last last next node e x
+code int pending jumps resolve pending pending stat pos position nopos mark stat begin fixed pc cp
+javadoc enter javadoc enter context enter instance context get enter key instance instance javadoc enter context javadoc enter instance
+array list void int mod count min capacity element data length grow min capacity
+source boolean compare to jdk
+class loader class module string get class loading lock name class c find loaded class name c c find class module get name name c c get module module c
+container void int parent parent adjust descendants num
+graph util void graph. node event node e graph node event zero usages is floating node n n guard node collected unused nodes add n
+runtime int version get
+runtime int version size version get
+runtime int version size version get
+basic menu ui boolean object c j menu j menu c is enabled
+lookup object object type error script runtime safe to string self
+method type method type class class class class ptypes class ptypes length ptypes ptype system arraycopy ptypes ptypes ptypes length make impl rtype ptypes
+method type method type class method type make impl rtype ptypes ptypes
+method type method type class class make impl rtype class ptype
+sparc hot spot lir generator variable value value value value value value kind kind new value get value kind kind equals expected value get value kind sparc kind mem kind sparc kind kind get platform kind variable result new variable new value get value kind append compare and swap op result as allocatable address as allocatable expected value as allocatable new value emit conditional move mem kind expected value result condition eq true value false value
+html doclet writer void int class doc print get pre qualified class link context cd
+method type form class class int class cs imax ts length i i imax i class c canonicalize ts i how c c c cs cs ts clone cs i c cs
+array list void int mod count min capacity element data length grow min capacity
+annotations void list assert check pending completion is started a null pointer exception attributes a
+weigh nodes node unary node unary node weight unary node
+weigh nodes node unary node unary node weight unary node
+bean linker method handle method handle linker services call site descriptor class source type desc get method type parameter type type utilities is method invocation convertible source type number mh ls can convert source type number method handle converter ls get type converter source type number method handles filter arguments mh converter as type converter type change return type mh type parameter type mh
+volatile call site method handle get target volatile
+user accessor property void accessors string object object object func gs setter func script function get invoke ua setter invoke exact func self value error runtime exception t t throwable t runtime exception t name type error name script runtime safe to string self
+user accessor property object accessors object object func gs getter func script function get invoke ua getter invoke exact func self error runtime exception t t throwable t runtime exception t undefined
+arrays void t comparator<? super t> t aux a clone c merge sort aux a a length merge sort aux a a length c
+attr node index node new temporary type object index node index node
+attr node return node node expr return node get expression expr symbol symbol expr get symbol expr get type is unknown symbol is param symbol set type type object get current function node set return type type widest get current function node get return type symbol get symbol type log info get current function node get return type end return node return node
+attr node try node try node set exception exception symbol try node get finally body try node set finally catch all exception symbol end try node try node
+attr node block to object block block
+attr node binary node type widest type widest binary node lhs get type binary node rhs get type binary node token type binary node is assignment binary node is self modifying widen binary node lhs widest add widen binary node widest binary node
+attr node object node new temporary type object object node end object node object node
+basic tree ui boolean object o j tree get name cancel editing j tree o is editing
+method emitter method emitter string string string type invokestatic class name method name method descriptor pop type push type return type
+platform logger level logger proxy get level
+type void method visitor call method visit method insn invokestatic call class name call name call descriptor
+snippet maps snippet int ki key index to snippet size key index to snippet get ki
+main module reader unsupported operation exception
+array list void int mod count min capacity element data length grow min capacity
+locations iterable init system modules set location locns linked hash set location l system modules values locns add l collections singleton locns
+locations location string module locations module locations hash map location l module locations get name l l module location handler location get name name name collections singleton output dir resolve name module locations put name l l
+locations location path path locations path locations get dir
+locations location string init system modules system modules get name
+optimistic types persistence file string os system get property equals os file file system get property os starts with file system get property file system get property
+copy on write array list e object int e a index
+heap dumper void string args length args equals dump file args string newargs string args length system arraycopy args newargs args length args newargs execute args
+relative path path path directory string sep file systems get default get separator paths get path replace sep string sep directory get file system get separator directory resolve path replace sep
+uninitialized type uninitialized type type metadata uninitialized type tag qtype offset md
+class void method method candidate methods modifier is static candidate get modifiers add candidate
+resolve symbol env method resolution phase find fun env name argtypes typeargtypes phase is boxing required phase is varargs required
+method emitter method emitter string string string debug class name method name method descriptor invoke invokespecial class name method name method descriptor
+method emitter method emitter string string string debug class name method name method descriptor invoke invokeinterface class name method name method descriptor
+locations location string init system modules system modules get name
+locations iterable init system modules set location locns linked hash set location l system modules values locns add l collections singleton locns
+locations location path path locations path locations get dir
+locations location string module locations module locations get name
+accessible object void module string module boolean reflection print stack trace when access succeeds module is statically exported or open pn other open string msg other field msg msg exception msg serial version uid to string string get message print stack trace system err
+locations collection lazy search path
+locations collection search path
+locations void iterable<? extends path> search path p files p compute path p create path add files files search path collections unmodifiable collection p
+locations void iterable<? extends path> files search path is default search path p search path add files files search path collections unmodifiable collection p option values clear
+x keysym long x key event int x toolkit awt lock xlib wrapper x keycode to keysym ev get display ev get keycode ndx x toolkit awt unlock
+p key int key length
+phase int get end live nodes get start live nodes
+parameter t class objects require non null annotation class annotation support get multiple annotations declared annotations annotation class
+check list list list list type unhandled list nil list type l thrown l non empty l l tail is handled l head handled unhandled unhandled prepend l head unhandled
+js type object script object object null or undefined obj type error global script runtime safe to string obj obj script object obj global object global wrap as object obj
+m bean support object resource
+main boolean manifest ename attributes global m get main attributes global get attributes name main class error get msg usage error
+http connection int server settings get parameter max concurrent streams
+scripting functions object object object file f file file f file file file string f java io file string file f f is file type error script runtime safe to string file undefined string source read fully f
+check list list list list type unhandled list nil list type l thrown l non empty l l tail is handled l head handled unhandled unhandled prepend l head unhandled
+copy on write array list void comparator<? super e> int int object es get array clone arrays sort es i end comparator object c set array es
+class reader void java file object previous class file current class file current class file class file list attribute compound new list deproxy compound list l sym annotations pending completion sym set declaration attributes new list sym append attributes new list current class file previous class file
+resolve symbol env method resolution phase find method env site name argtypes typeargtypes phase is boxing required phase is varargs required syms operator names contains name
+runtime boolean object ob ob version version that version ob version equals that version pre equals that pre build equals that build
+stroker void float float int prev move to cx x cy y prev drawing op to finish outcode prev move to cx x cy y cdx cdy
+c graphics device int display id
+calendar data utility string string int int int locale locale service provider pool pool locale service provider pool get pool calendar name provider string name name pool get localized object calendar field value name getter instance locale normalize calendar type id field value style name name pool get localized object calendar field value name getter instance locale normalize calendar type id field value style name
+krb as rep sun.security.krb .internal.ccache. credentials sun security krb internal ccache credentials rep
+long string long int buf char pos radix shift mask radix buf char pos integer digits i mask i shift i string buf char pos char pos
+source boolean compare to jdk
+code int pending jumps resolve pending pending stat pos position nopos mark stat begin fixed pc cp
+accessible object t class assertion error
+compilation phase node function node node outermost function node node compiler is lazy lazy add node node
+ident node boolean name equals dir symbol name name equals file symbol name name equals line symbol name
+archive string filename
+script function data method handle method handle method type type handle type method type new type type generic is var arg new type new type change parameter type type parameter count object needs callee new type new type change parameter type script function type equals new type handle handle as type new type
+annotate void annotator q append a
+script object boolean call site descriptor property map property map object is strict nashorn call site descriptor is strict desc is extensible is strict type error desc get name token script runtime safe to string compare and set map old map new map set desc get name token call site descriptor name operand value is strict
+method handle impl string add type string target
+delete on exit hook void linked hash set string the files delete on exit hook the files files files array list string to be deleted array list string the files collections reverse to be deleted string filename to be deleted file filename delete
+filter one argument string target to string
+module bootstrap module finder string string s system get property prop s string dirs s split file path separator path paths path dirs length i string dir dirs paths i paths get dir module path of patcher paths
+user accessor property class object
+get property action string string string system get security manager system get property the prop default val access controller do privileged get property action the prop default val
+get property action string string system get security manager system get property the prop access controller do privileged get property action the prop
+get property action properties system get security manager system get properties access controller do privileged privileged action properties run properties system get properties
+heap dumper void string args length args equals dump file args string newargs string args length system arraycopy args newargs args length args newargs execute args
+weigh nodes node runtime node weight call weight runtime node
+weigh nodes node switch node weight switch weight switch node
+weigh nodes node while node weight loop weight while node
+weigh nodes node catch node weight catch weight catch node
+weigh nodes node call node weight call weight call node
+weigh nodes node return node weight return weight return node
+weigh nodes node for node weight loop weight for node
+weigh nodes node execute node execute node
+weigh nodes node var node weight var weight var node
+weigh nodes node split node weight split weight
+type annotations void java file object old source log use source env toplevel sourcefile attr validate type annotations tree log use source old source
+type annotations void java file object old source log use source env toplevel sourcefile type annotation positions scan tree log use source old source
+javac parser jc expression term type
+ident node boolean name equals dir symbol name name equals file symbol name name equals line symbol name
+uninitialized type uninitialized type type metadata uninitialized type tag qtype offset md
+script runtime boolean js type js type x type js type number x type js type string x type js type symbol y type js type object
+annotations void list assert check pending completion is started a null pointer exception attributes a
+module info builder map dependency finder parse exported ap is automatic modules stream dependency finder dependences
+get property action string string system get security manager system get property the prop access controller do privileged get property action the prop
+get property action string string string system get security manager system get property the prop default val access controller do privileged get property action the prop default val
+x keysym long x key event int x toolkit awt lock xlib wrapper x keycode to keysym ev get display ev get keycode ndx x toolkit awt unlock
+process handle impl long pid
+type undet var type metadata assertion error
+type union class type type metadata assertion error
+type for all type metadata assertion error
+type package type type metadata assertion error
+type bottom type type metadata assertion error
+type jc no type type metadata assertion error
+integer string int int buf char pos radix shift mask radix buf char pos digits i mask i shift i string buf char pos char pos
+module boolean string exports contains key pn exports get pn is empty
+orb utility value handler util create value handler
+objects t t t obj obj require non null default obj
+compactible free list space long list regions get live regions used size iterator itr regions iterator itr has next mem region mr mem region itr next used size mr byte size used size
+visible member map boolean type element class map get type element members is empty
+component boolean component comp is visible no client code
+server impl inet socket address inet socket address schan socket get local socket address
+volatile call site method handle get target volatile
+main module reader unsupported operation exception
+counted loop info boolean end constant node iv is constant init iv is constant stride
+class reader void java file object previous class file current class file sym default value current class file class file sym default value deproxy sym type get return type value current class file previous class file
+class reader void java file object previous class file current class file current class file class file list attribute compound new list deproxy compound list l sym annotations pending completion sym set declaration attributes new list sym append attributes new list current class file previous class file
+class reader void java file object previous class file current class file current class file class file list attribute type compound new list deproxy type compound list proxies sym set type attributes new list prepend list sym get raw type attributes current class file previous class file
+login context void string java security access controller do privileged java security privileged exception action void run login exception void invoke method name creator acc java security privileged action exception pae login exception pae get exception
+mask comments and modifiers void string builder int sb append ch
+source boolean compare to jdk
+class loader boolean parallel loaders is registered get class
+token int int
+token void int int ref
+html doclet writer void int class doc print get pre qualified class link context cd
+method handle string get name string
+deferred attr deferred type type metadata assertion error
+doc lint void javac task string init task args
+archive string filename
+type method type type metadata assertion error
+type union class type type metadata assertion error
+type package type type metadata assertion error
+type for all type metadata assertion error
+type jc void type type metadata assertion error
+type unknown type type metadata assertion error
+code generator node index node index node test resolved load index node
+code generator node ident node load ident ident node
+code generator node index node base already on stack load index node get base convert type object load index node get index method dynamic get index node get type get call site flags index node is function
+code generator node unary node node token type token type convert node get symbol method convert node rhs get type node
+code generator node access node enter base node
+code generator node access node base already on stack load access node get base convert type object method peek type is object method dynamic get node get type access node get property get name get call site flags access node is function
+code generator node literal node literal node get symbol literal node load literal node store literal node get symbol
+jmod task path string path path cwd resolve value files not exists path command exception path files is directory path files is regular file path path to string ends with command exception path path invalid path exception x command exception value
+spread generic string get class get simple name target type spread count
+spread generic string add type string target
+dev poll array wrapper void file dispatcher impl close int fd wfd poll array free
+slot boolean get short name get short name length
+abstract doclet source version source version release
+node visitor node property node leave default property node
+node visitor node try node enter default try node
+node visitor node property node enter default property node
+node visitor node ternary node enter default ternary node
+node visitor node return node enter default return node
+node visitor node split node enter default split node
+node visitor node line number node enter default line number node
+node visitor node call node enter default call node
+node visitor node if node enter default if node
+node visitor node execute node enter default execute node
+node visitor node do while node leave default do while node
+node visitor node break node enter default break node
+node visitor node binary node enter default binary node
+node visitor node function node leave default function node
+node visitor node case node leave default case node
+node visitor node index node enter default index node
+node visitor node continue node leave default continue node
+node visitor node if node leave default if node
+node visitor node access node enter default access node
+node visitor node access node leave default access node
+node visitor node continue node enter default continue node
+node visitor node function node enter default function node
+node visitor node var node leave default var node
+node visitor node for node leave default for node
+node visitor node call node leave default call node
+node visitor node label node leave default label node
+node visitor node with node enter default with node
+node visitor node case node enter default case node
+node visitor node execute node leave default execute node
+node visitor node binary node leave default binary node
+n method address header begin add offset to get stub offset
+mask comments and modifiers void string builder int sb append ch
+visible member map boolean type element class map get type element members is empty
+resolve symbol env method resolution phase find method env site name argtypes typeargtypes phase is boxing required phase is varargs required syms operator names contains name
+jdeps configuration boolean string all module path equals name all default equals name all system equals name
+node visitor node continue node leave default continue node
+node visitor node case node enter default case node
+node visitor node do while node leave default do while node
+node visitor node runtime node leave default runtime node
+node visitor node with node leave default with node
+node visitor node split node leave default split node
+node visitor node ternary node leave default ternary node
+node visitor node throw node leave default throw node
+node visitor node binary node enter default binary node
+node visitor node try node leave default try node
+node visitor node continue node enter default continue node
+node visitor node unary node enter default unary node
+node visitor node return node leave default return node
+node visitor node do while node enter default do while node
+node visitor node var node leave default var node
+node visitor node execute node leave default execute node
+node visitor node break node enter default break node
+node visitor node call node leave default call node
+node visitor node object node leave default object node
+node visitor node call node enter default call node
+node visitor node case node leave default case node
+node visitor node index node enter default index node
+node visitor node line number node leave default line number node
+node visitor node split node enter default split node
+node visitor node for node leave default for node
+node visitor node property node leave default property node
+node visitor node label node leave default label node
+node visitor node empty node enter default empty node
+node visitor node function node enter default function node
+node visitor node throw node enter default throw node
+node visitor node catch node leave default catch node
+node visitor node try node enter default try node
+node visitor node with node enter default with node
+node visitor node access node leave default access node
+node visitor node index node leave default index node
+comparator comparator collections reverse order
+bytecode parser t t v graph v t added graph add or unique with inputs v added v update last instruction v added
+copy on write array list e object int e a index
+aa shape pipe tile state tile state
+drop target context void drop target context peer transferable
+user accessor property class object
+splitter node split node split node split stack peek first split stack remove first split node
+splitter node return node split node split split stack split set has return return node
+splitter node switch node register jump target switch node switch node
+splitter node break node search jump target break node get target node break node get target label break node
+splitter node continue node search jump target continue node get target node continue node get target label continue node
+class loader class module string get class loading lock name class c find loaded class name c c find class module get name name c c get module module c
+comparator comparator to long function<? super t> objects require non null key extractor comparator t serializable c c long compare key extractor apply as long c key extractor apply as long c
+comparator comparator to double function<? super t> objects require non null key extractor comparator t serializable c c double compare key extractor apply as double c key extractor apply as double c
+transform x path boolean string str index of str index of
+class a class objects require non null annotation class init annotations if necessary annotation support get multiple annotations declared annotations annotation class
+n method address header begin add offset to get scopes data offset
+iso int char int byte int int i i len i c sa sp c da dp c i
+constant pool oop long get heap new oop get handle get oop handle at index offset index
+spread generic string add type string target
+array list void int mod count min capacity element data length grow min capacity
+javac parser jc expression term type
+annotations void list assert check pending completion is started a null pointer exception attributes a
+drop target context void drop target context peer transferable
+utils path matcher string get path matcher jrt file system pattern
+aqua utils image image image filter image producer prod filtered image source image get source filter toolkit get default toolkit create image prod
+renderer void line to pix sx pix sy
+n method address header begin add offset to get deopt offset
+invoker bytecode generator void mv visit maxs mv visit end
+schedule phase void node event node e node
+hmac core void first md reset first
+hmac core byte first md update k ipad first tmp md digest md update k opad md update tmp md digest tmp tmp length tmp digest exception e provider exception e
+class reader void java file object previous class file current class file current class file class file list attribute type compound new list deproxy type compound list proxies sym set type attributes new list prepend list sym get raw type attributes current class file previous class file
+socket permission boolean socket permission string this host hostname string that host that hostname this host this host equals ignore case that host
+main void system err println system err println rb get string system err println rb get string system err println rb get string system err println
+module void module string m impl add exports or opens pn module everyone module
+calendar data utility map string int int locale locale service provider pool pool locale service provider pool get pool calendar name provider map string integer map map pool get localized object calendar field value names map getter instance locale normalize calendar type id field style map map pool get localized object calendar field value names map getter instance locale normalize calendar type id field style map
+jre locale provider adapter set string set string tagset langtag sets get category tagset tagset create language tag set category set string ts langtag sets put if absent category tagset ts tagset ts tagset
+ssl context impl cipher suite list clear available cache supported cipher suite list supported cipher suite list get applicable cipher suite list get suported protocol list supported cipher suite list
+generator base void port operation operation port get operations operation accept
+string utf int byte int int int i from index i max i get char value i ch i
+class loader boolean parallel loaders is registered get class
+chrono field boolean ordinal day of week ordinal
+long pipeline double stream double pipeline stateless op long stream shape long value stream op flag not sorted stream op flag not distinct op wrap sink flags sink double sink sink long sink chained long sink accept t downstream accept t
+activation socket address server socket get local socket address
+to generic string entry type prims at end order
+console reader void in in shutdown
+linked blocking queue void e last last next node e x
+gcp srn mapping service void schema data log debug schema data schema data repository save schema data mapper schema data to schema data dto schema data
+workflow status repository impl workflow status workflow status log info workflow status string error msg workflow status map string object data get workflow status data workflow status string collection name database properties get workflow status api future document reference query firestore collection collection name add data document reference added doc ref get safety query error msg log info added doc ref document snapshot saved get safety added doc ref get log info saved build workflow status saved
+delfi search service string message headers string headers contains key header key string result string headers get header key log debug header key result result
+search object mapper decorator spatial filter geo location log debug geo location spatial filter spatial filter map geo location object geo location log debug spatial filter spatial filter
+factories holder base factory remote apigee url factory
+demo activity shared preferences context get shared preferences demo activity get simple name context mode private
+smart quoted extension char delim
+smart quoted extension char delim
+vectorization reduction opportunities list translation unit reduction opportunity context vectorization reduction opportunities finder vectorization reduction opportunities tu context finder visit tu finder get opportunities
+uniforms info void string int contains key uniform name uniforms info get as json object uniform name add property number
+unswitchify reduction opportunities list translation unit reduction opportunity context unswitchify reduction opportunities finder unswitchify reduction opportunities tu context finder visit tu finder get opportunities
+live output variable write reduction opportunities list translation unit reduction opportunity context live output variable write reduction opportunities finder live output variable write reduction opportunities tu context finder visit tu finder get opportunities
+mutation reduction opportunities list translation unit reduction opportunity context mutation reduction opportunities finder mutation reduction opportunities tu context finder visit tu finder get opportunities
+stmt reduction opportunities list translation unit reduction opportunity context stmt reduction opportunities finder stmt reduction opportunities tu context finder visit tu finder get opportunities
+compound to block reduction opportunities list translation unit reduction opportunity context compound to block reduction opportunities finder compound to block reduction opportunities tu context finder visit tu finder get opportunities
+inline initializer reduction opportunities list translation unit reduction opportunity context inline initializer reduction opportunities finder inline initializer reduction opportunities tu context finder visit tu finder add opportunities finder get opportunities
+unwrap reduction opportunities list translation unit reduction opportunity context unwrap reduction opportunities finder unwrap reduction opportunities tu context finder visit tu finder get opportunities
+for stmt boolean get condition
+inline function reduction opportunities list translation unit reduction opportunity context inline function reduction opportunities finder inline function reduction opportunities tu context finder visit tu finder opportunities
+fold constant reduction opportunities list translation unit reduction opportunity context fold constant reduction opportunities finder fold constant reduction opportunities tu context finder visit tu finder get opportunities
+interface block boolean layout qualifier is present
+on bottom sheet slide behavior int nested scroll view get top nested scroll view get padding top
+observation list view model single throwable log d tag t single just immutable list of
+main activity void permissions request activity compat request permissions permissions request get permissions permissions request get request code
+local value store boolean preferences get boolean keys upload media
+local value store boolean preferences get boolean keys offline areas
+resource optional optional of nullable data
+browse fragment void view model view model providers of get activity view model factory get browse view model main view model view model providers of get activity view model factory get main view model
+firestore data service single string string map single rx firestore get collection db project project id place place id records ref doc record doc to proto doc get id doc
+record details fragment void main activity get activity set action bar toolbar
+feature sheet view model live data live data reactive streams from publisher selected feature
+room local data store completable observation record entity record entity record entity from record observation record mutation dao find by record id observation get id map record entity flat map completable record dao subscribe on schedulers io
+geo json parser list string json object geo json json object json string to array list geo json get json array features key json exception e timber e e immutable list of
+record details fragment void record progress bar set visibility view gone toolbar set title record get place get title toolbar set subtitle record get place get subtitle form name view set text record get form get title record details layout remove all views form element element record get form get elements element get type field add field element get field record subform log d tag
+gnd application module shared preferences application application get application context get shared preferences config shared prefs name config shared prefs mode
+tile string int int int string xstr string value of x string ystr string value of y string zstr string value of z string filename zstr xstr ystr filename
+record details fragment void view model get record observe
+record details fragment void view model view model factory create record details view model
+place sheet body fragment void record list view pager set adapter form type pager adapter record list view pager add on page change listener view model forms tab layout setup with view pager record list view pager tab layout helper tab layout helper tab layout helper forms tab layout record list view pager tab layout helper set auto adjust tab mode enabled
+project selector view model project int loadable get value offline projects or else collections empty list get idx
+permissions manager completable source permissions result result is granted completable complete completable error permission denied exception
+tile source tile source tile source tile source to builder set area count tile source get area count build
+main fragment void view model show dialog requests observe view model project activation events observe
+main activity boolean get nav controller navigate up
+rx transformers flowable transformer upstream upstream filter optional map optional
+loadable flowable flowable source map loadable on error return loadable start with loadable loading
+feature document string layer id
+project document map layers
+main activity view model window insets compat view window insets compat window insets live data set value insets insets
+home screen view model void feature sheet state state feature sheet state get value state log e tag selected form log e tag feature feature state get feature navigator add observation feature get project get id feature get id selected form get id
+gnd application module storage reference firebase storage get instance get reference
+abstract resource optional optional of nullable data
+camera manager observable activity streams get next activity result capture photo request code filter activity result map activity result optional of nullable activity result get data map intent map extras bitmap extras get filter optional map optional
+settings manager completable int activity streams get next activity result request code flat map completable r complete or error r is ok settings change request canceled do on complete log d tag do on error t log d tag t
+place doc place doc place place doc doc place doc point point place get point doc feature type id place get place type get id doc center geo point point get latitude point get longitude doc custom id place get custom id doc caption place get caption doc
+storage manager single string rx task to single firestore storage manager get download url destination path on error return throwable get file uri from destination path destination path
+map container view model camera update point camera update center optional empty
+map container view model camera update point camera update center optional of default zoom level
+observation details view model void observation details fragment args args processor on next args
+edit int edit. type int enum from int enum value unknown
+fluent collection reference collection reference ref
+edit record fragment void view model save changes stream fields map editable filter u u get operation equals operation no change collect to immutable list
+room local data store flowable offline area dao find all map areas stream areas map offline area entity collect to immutable list subscribe on schedulers io
+rx debug maybe converter string string tracer t tracer tag stream name m m do on subscribe t do on success t do on complete t do on error t
+google map impl observable marker click subject
+main fragment void view model view model providers of view model factory get main view model
+map adapter module map adapter google maps adapter
+place sheet body fragment void view model view model providers of get activity view model factory get place sheet body view model main view model view model providers of get activity view model factory get main view model home screen view model view model providers of get activity view model factory get home screen view model
+place sheet body fragment void main view model get window insets observe home screen view model get place sheet state observe view model view model get selected place observe form type pager adapter
+record details view model string resource record data map record map feature or else
+place sheet header fragment void browse view model get place sheet events observe
+map container fragment void disable location lock btn disable add place btn
+rx transformers flowable transformer upstream upstream filter optional map optional
+rx firestore util single maybe function result map query snapshot document stream query snapshot map mapping function collect collectors to list to single collections empty list
+gnd data repository flowable project state observable to flowable backpressure strategy latest
+abstract dialog fragment t class view model factory get model class
+int enum int e e enum value default value int value enum value int value
+edit record fragment void nav host fragment find nav controller navigate up
+loadable flowable flowable source map loadable on error return loadable start with loadable loading
+firestore data service collection reference string project project id collection
+firestore data service collection reference document reference project collection
+main view model void record summary main view state set value main view state record details record summary get record get project get id record summary get record get place get id record summary get record get id
+local mutation sync worker completable immutable list observable from iterable mutations filter mutation mutation get type type delete flat map completable mutation mutation observation mutation local data store delete observation observation mutation mutation get observation id mutation feature mutation local data store delete feature mutation get feature id completable error illegal argument exception mutation
+data repository single string string string get feature project id feature id switch if empty single error document not found exception flat map feature remote data store load record details feature record id map resource on error return resource
+project state flowable places flowable
+edit observation view model void throwable log e tag t
+resource optional optional of nullable data
+room local data store completable observation entity observation mutation single just observation entity do on subscribe  timber d mutation map entity entity to builder set state entity state deleted build flat map entity observation dao update entity ignore element subscribe on schedulers io
+data repository single string string string get feature project id feature id switch if empty single error document not found exception map feature observation new builder set id uuid generator generate uuid set project feature get project set feature feature set form feature get layer get form form id get build
+geo json parser list file string file contents file utils read file to string file charset for name json source charset json object geo json json object file contents to array list geo json get json array features key json exception io exception e timber e e immutable list of
+navigator void string string string navigate home screen fragment directions show observation details project id feature id observation id
+abstract fluent firestore flowable rx firestore observe query ref ref
+map container fragment void main view model get window insets observe map adapter get map adapter as auto disposable subscribe
+rx transformers flowable transformer upstream upstream filter optional map optional
+abstract fragment t class view model factory get model class
+firestore data store single feature db projects project feature get project get id records records by feature id feature subscribe on schedulers io
+map container view model live data camera updates
+map container view model mutable live data location lock status
+result function function t value fn apply value map result on error return result
+result function function t value fn apply value map result on error return result
+boolean or error boolean or error boolean or error
+main fragment view model live data show project selector dialog requests
+firestore data store flowable project db projects project project get id features observe project
+rx debug single transformer string single single do on subscribe  log debug name do on success  log debug name do on dispose log debug name do on error  log debug name
+edit observation view model void string dispose on clear storage manager launch photo picker and then handle photo picker result field id subscribe
+edit observation view model void string dispose on clear camera manager launch photo capture and then handle photo capture result field id subscribe
+google maps map adapter void stream geo json layers for each layer geo json layers clear
+photo field view model void response field response photo preview visibility set value view gone string value response get details text field value is empty photo preview visibility set value view gone photo preview visibility set value view visible dispose on clear storage manager load uri from destination path value subscribe destination path
+tile download work manager void string one time work request request build worker request tile id get work manager enqueue request
+data repository void datastore event event get entity if present or else cache cache remove place event get id
+data repository flowable active project subject to flowable backpressure strategy latest start with cache get active project map resource or else resource not loaded
+entity state entity state int int enum to int enum stream values int value unknown
+navigator void string string string navigate home screen fragment directions add record project id feature id form id
+google maps view model observable marker click subject
+record list view model void feature form load records feature get project feature get feature type get id form get id feature get id
+main view model live data add place dialog requests
+main view model live data show project selector dialog requests
+location manager single log d tag rx location services get fused location provider client context get last location map location manager
+file util file string file file file context get files dir filename file exists file not found exception filename file
+place sheet body fragment void view model view model providers of get activity view model factory get place sheet body view model main view model view model providers of get activity view model factory get main view model browse view model view model providers of get activity view model factory get browse view model
+edit record fragment void view model view model factory create edit record view model
+record optional string optional of nullable get response map get id
+edit record view model void values clear errors clear
+gnd application module observation mutation dao local database local database observatioon mutation dao
+gnd application module observation dao local database local database observation dao
+map container fragment void replace fragment r id map map adapter get fragment
+home screen fragment void view model view model providers of get activity view model factory get home screen view model main view model view model providers of get activity view model factory get main view model
+map container view model void map box offline tile provider tile providers add tile provider
+user doc user user doc ud user ud id ud email ud display name
+map container fragment void main view model get window insets observe map provider get map adapter as auto disposable subscribe
+default json serializers json element url type json serialization context json primitive src to external form
+default json serializers json element locale type json serialization context json primitive src to string
+header map spec boolean string type type type of header get type for header name type of header class raw class of header type utils to raw class type of header class raw class of target type type utils to raw class target type raw class of header is assignable from raw class of target type
+json print formatter void json primitive writer value primitive to string
+type adapter t reader json reader reader json reader in reader set lenient read reader
+type adapter t json element json reader json reader json element reader json json reader set lenient read json reader io exception e json io exception e
+type adapter void writer t json writer writer json writer out write writer value
+type adapter json element t json element writer json writer json element writer json writer set lenient write json writer src json writer get io exception e json io exception e
+json element boolean json primitive
+json element boolean json object
+gson type adapter type adapter factory type token skip past found type adapter factory factory factories skip past found factory skip past skip past found type adapter t candidate factory create type candidate candidate illegal argument exception type
+gson builder gson builder exclusion strategy deserialize exclusion strategies add strategy
+content body spec boolean string type type equals get type for param name
+header map spec boolean string type type type of header get type for header name type of header class raw class of header type utils to raw class type of header class raw class of target type type utils to raw class target type raw class of header is assignable from raw class of target type
+json object set members entry set
+gson builder gson builder type adapter. factory type adapter factories add factory
+json primitive void string builder value value string sb append sb append value sb append sb append value
+type adapter void writer t json writer writer json writer out write writer value
+type adapter json element t json element writer json writer json element writer json writer set lenient write json writer src json writer get io exception e json io exception e
+call path map call path map call path map t contents null value
+json parser javacc boolean jj scan token
+request body request body request body spec contents
+default json deserializers uri json element type json deserialization context uri json get as string uri syntax exception e json parse exception e
+default json deserializers map json element type json deserialization context map string object map linked hash map string object type child type map type info type of t get value type map entry string json element entry json get as json object entry set object value context deserialize entry get value child type map put entry get key value map
+default json deserializers url json element type json deserialization context url json get as string malformed url exception e json parse exception e
+response body response body response body spec contents
+json object set members entry set
+json object json array string json array members get member name
+json object json primitive string json primitive members get member name
+json array boolean json element elements contains element
+content body spec boolean string type type equals get type for param name
+json array boolean json element elements contains element
+gson type adapter type adapter factory type token skip past found type adapter factory factory factories skip past found factory skip past skip past found type adapter t candidate factory create type candidate candidate illegal argument exception type
+json parser javacc boolean jj scan token
+delayed goal stream g run s
+diff list goal object diff list diff list conj same without hole with hole same cons of element without head with head
+queue goal object queue queue conj same without size with size one less diff list o last element without contents with contents
+regular type descriptor type descriptor int get interner intern auto value array type descriptor dimensions
+generator utils boolean java type type get super type descriptor type get super type descriptor is native
+method descriptor boolean is static is constructor
+method descriptor string build method signature get name get parameter type descriptors
+normalize casts expression type descriptor expression expression ast utils remove js doc cast if present expression method descriptor cast to method descriptor method descriptor new builder set js info js info raw set static set enclosing type descriptor bootstrap type casts get descriptor set name set parameter type descriptors type descriptors get java lang object type descriptors get java lang object set return type descriptor cast type descriptor build method call builder from cast to method descriptor set arguments expression ast utils get metadata constructor reference cast type descriptor build
+normalize casts method call array type descriptor expression type descriptor leaf type descriptor array cast type descriptor get leaf type descriptor leaf type descriptor to raw type descriptor is native runtime methods create arrays method call expression runtime methods create arrays method call expression ast utils get metadata constructor reference leaf type descriptor number literal from int array cast type descriptor get dimensions
+insert narrowing primitive conversions expression type descriptor type descriptor expression type descriptor from type descriptor expression get type descriptor from type descriptor is assignable to to type descriptor should narrow from type descriptor to type descriptor expression insert narrowing call expression to type descriptor
+insert instance init calls visitor void compilation unit insert instance init calls visitor insert instance init call compilation unit
+java type boolean get native type descriptor
+make explicit enum construction visitor void compilation unit make explicit enum construction visitor compilation unit make enum construction explicit
+implement static initialization boolean type descriptor type descriptor type descriptor is native type descriptor is js function interface
+normalize constructors method call type descriptor list list method descriptor js super descriptor method descriptor builder from default parameter type descriptors super argument types enclosing class type descriptor super type js info js info create js member type constructor is constructor build method call create method call js super descriptor super arguments
+method call builder builder
+js interop restrictions checker boolean type descriptor value type descriptor is primitive type descriptors is primitive long value type descriptor type descriptors is java lang string value type descriptor
+fix type variables in methods boolean type descriptor member type descriptor is type variable member is method method member get descriptor get type parameter type descriptors contains type descriptors to non nullable type descriptor method member get descriptor is js function
+statement source generator string null literal expression to string
+statement source generator string variable reference expression get target get name
+statement source generator string parenthesized expression string format to source expression get expression
+field descriptor builder js info js info js info
+import gatherer void type descriptor type descriptor has overlay implementation type add type descriptor type descriptor get type declaration get overlay implementation type descriptor import category lazy
+initializer block string string prefix get enclosing type descriptor get qualified binary name is static prefix prefix
+member descriptor string string js name get js info get js name js name js name get js info get js member type compute js name
+binary operator boolean assign underlying binary operator
+verify param and arg counts visitor void compilation unit verify param and arg counts visitor verify param and arg counts visitor compilation unit
+field builder boolean is enum field is enum field
+field builder variable captured variable captured variable
+field builder expression initializer initializer
+bridge methods creator list i type binding bridge methods creator bridge methods creator bridge methods creator type binding list method generated bridge methods array list set method descriptor generated bridge method descriptors hash set map entry i method binding i method binding entry bridge methods creator find bridge methods entry set method bridge method bridge methods creator create bridge method entry get key entry get value generated bridge method descriptors contains bridge method get descriptor generated bridge methods add bridge method generated bridge method descriptors add bridge method get descriptor generated bridge methods
+import type descriptor type descriptor
+normalize casts void compilation unit compilation unit accept abstract rewriter rewrite cast expression cast expression cast expression node type descriptor type descriptor cast expression get type descriptor expression expression cast expression get expression can remove cast type descriptor expression create js doc cast type descriptor expression cast expression
+variable builder boolean is final is final
+variable builder boolean is parameter is parameter
+normalize casts method call array type descriptor expression type descriptor leaf type descriptor array cast type descriptor get leaf type descriptor leaf type descriptor to raw type descriptor is native runtime methods create arrays method call expression runtime methods create arrays method call expression ast utils get metadata constructor reference leaf type descriptor number literal from int array cast type descriptor get dimensions
+statement source info java source info
+type declaration declared type descriptor get unparameterized type descriptor factory get
+type declaration declared type descriptor get raw type descriptor factory get
+type declaration declared type descriptor get unparameterized type descriptor factory get
+unary expression builder expression operand operand
+unary expression builder operator operator prefix operator operator
+devirtualize method calls visitor method call method call method call get qualifier super reference method call type descriptor enclosing class type descriptor method call get target get enclosing class type descriptor get raw type descriptor entry type descriptor type descriptor entry devirtualization type descriptors mapping entry set enclosing class type descriptor entry get key ast utils create devirtualized method call method call entry get value entry get key method call
+declared type descriptor declared type descriptor get raw type descriptor factory get
+initializer block builder boolean is static is static
+problems list collection problems by severity entries stream filter e severities contains e get key map map entry collect collectors to list
+new instance builder builder
+insert implicit casts visitor void compilation unit insert implicit casts visitor insert implicit casts compilation unit
+cast expression builder expression expression expression
+cast expression builder type descriptor cast type descriptor cast type descriptor
+js type annotation builder type descriptor annotation type annotation type
+bridge methods creator method descriptor method descriptor type declaration declared type descriptor super interface type declaration get transitive interface type descriptors method descriptor method descriptor super interface get declared method descriptors method descriptor method descriptor get declaration descriptor method descriptor is js override bridge method descriptor method descriptor is js override bridge method descriptor get declaration descriptor method descriptor
+js interop restrictions checker boolean member descriptor member descriptor is static member descriptor is constructor member descriptor is js member member descriptor is synthetic
+field descriptor field descriptor get declaration field descriptor or null if self get declaration field descriptor or null if self
+type descriptor string joiner on join class components
+normalize casts expression type descriptor expression expression ast utils remove js doc cast if present expression method descriptor cast to method descriptor method descriptor new builder set js info js info raw set static set enclosing type descriptor bootstrap type casts get descriptor set name set parameter type descriptors type descriptors get java lang object type descriptors get java lang object set return type descriptor cast type descriptor build method call builder from cast to method descriptor set arguments expression ast utils get metadata constructor reference cast type descriptor build
+method builder boolean is override is override
+method descriptor method descriptor get declaration method descriptor or null if self get declaration method descriptor or null if self
+normalize static member qualifiers pass void compilation unit compilation unit accept fix qualifiers
+devirtualize method calls visitor method call method call method call get target get enclosing class type descriptor is js function implementation devirtualize js function impl method calls method call devirtualize regular method call method call
+remove unused multi expression return values void compilation unit remove unused multi expression return values remove unused compilation unit
+ast utils field descriptor type descriptor variable field descriptor create raw enclosing class type descriptor captures prefix captured variable get name captured variable get type descriptor
+normalize nested class constructors visitor void compilation unit normalize nested class constructors visitor normalize nested class constructors compilation unit
+import type descriptor type descriptor
+type declaration type declaration type declaration iterable builder from original type declaration set type parameter descriptors type parameter type descriptors set unsafe type descriptor factory type descriptors replace type argument descriptors original type declaration get unsafe type descriptor type parameter type descriptors build
+insert js enum boxing and unboxing conversions expression type descriptor type descriptor expression type descriptor from type descriptor expression get declared type descriptor ast utils is non native js enum from type descriptor ast utils is non native js enum to declared type descriptor box expression ast utils is non native js enum to declared type descriptor ast utils is non native js enum from type descriptor unbox to declared type descriptor expression expression
+normalize casts method call array type descriptor expression type descriptor leaf type descriptor array cast type descriptor get leaf type descriptor leaf type descriptor to raw type descriptor is native runtime methods create arrays method call expression runtime methods create arrays method call expression ast utils get metadata constructor reference leaf type descriptor number literal from int array cast type descriptor get dimensions
+insert static class initializer methods boolean type descriptor type descriptor type descriptor is native type descriptor is js function interface
+native java script file string relative path substring relative path last index of native extension
+compilation unit builder list list array list lists transform expressions function org eclipse jdt core dom expression expression apply org eclipse jdt core dom expression expression expression convert expression
+method descriptor builder string method name method name
+method descriptor builder boolean is static is static
+method descriptor builder type descriptor enclosing class type descriptor enclosing class type descriptor
+method descriptor builder boolean is native is native
+method descriptor builder boolean is default is default
+method descriptor builder iterable parameter type descriptors immutable list copy of parameter type descriptors
+method descriptor builder visibility visibility visibility
+method descriptor builder type descriptor parameter type descriptors immutable list copy of type descriptors
+ast utils type descriptor regular type descriptor type descriptor create synthetic type descriptor get package components iterables concat type descriptor get class components arrays as list js overlay methods impl suffix
+normalize casts method call array type descriptor expression type descriptor leaf type descriptor array cast type descriptor get leaf type descriptor leaf type descriptor to raw type descriptor is native runtime methods create arrays method call expression runtime methods create arrays method call expression ast utils get metadata constructor reference leaf type descriptor number literal from int array cast type descriptor get dimensions
+normalize casts expression type descriptor expression expression ast utils remove js doc cast if present expression method descriptor cast to method descriptor method descriptor new builder set js info js info raw set static set enclosing type descriptor bootstrap type casts get descriptor set name set parameter type descriptors type descriptors get java lang object type descriptors get java lang object set return type descriptor cast type descriptor build method call builder from cast to method descriptor set arguments expression ast utils get metadata constructor reference cast type descriptor build
+event listener void long out println tid pc
+event listener void long out println tid pc
+normalization int pattern flags
+abstract attribute provider boolean string attributes get attribute is settable on create
+file system service jimfs file store file store
+file factory supplier regular file supplier
+file system view immutable sorted set store read lock lock immutable sorted set name names working directory snapshot working directory update access time names store read lock unlock
+symbolic link file int symbolic link create id target
+jimfs file system provider jimfs file system uri jimfs file system file system file systems get uri file system file system not found exception uri to string file system
+jimfs file system uri uri
+normalization string string string
+normalization string string normalizer normalize string normalizer form nfc
+normalization string string ascii to lower case string
+jimfs file system provider void jimfs file system file systems remove file system uri
+file system service directory entry jimfs path link options store read lock lock lookup internal path options store read lock unlock
+directory entry file file
+file tree string path path get file name path get root to string path get file name to string
+file byte store byte store content
+file directory table directory table content
+js boolean object check type js typeof obj internal js util as boolean obj
+js int object check type internal js util is int obj internal js util as int obj
+js string object check type js typeof obj unchecked cast obj
+js property map any string any internal js util get object by name qualified name
+generator utils map list file reader splitter on omit empty strings with key value separator split read files file paths file reader
+namespace attribute rewriter boolean type type is extern is native js type type maybe rewrite annotation attributes type type get package name
+fix references to duplicated types boolean type reference type reference java type reference java type reference java type reference java type reference type reference type synthetic type java type reference get type declaration types to replace contains key synthetic type java type reference set type declaration types to replace get synthetic type
+problems void string object infos add format message msg args
+wifi manager snippet void m context get application context get application info target sdk version build version sdk int log d ui automation uia instrumentation registry get instrumentation get ui automation uia adopt shell permission identity class cls class for name method destroy method cls get declared method destroy method invoke uia no such method exception illegal access exception class not found exception invocation target exception e wifi manager snippet exception e
+bluetooth adapter snippet void m bluetooth adapter enable bluetooth adapter snippet exception utils wait until m bluetooth adapter is enabled bluetooth adapter snippet exception
+project config map preconditions check not null repositories collections unmodifiable map repositories
+options module string string find arg value args
+hg writer void string rev clone run hg command relative filename
+walker n insertion order visit next n next visited stream n successors find successors apply next successors traversal order insert into horizon successors spliterator next horizon is empty
+substring substring substring context start index context length
+substring substring substring context end index context length
+checked bi function checked bi function checked function<? super t,? extends r,? extends e> require non null mapper a b mapper apply apply a b
+traversal void t queue add flatten get successors apply node map
+substring substring string int int index substring str index index length
+bi optional optional checked bi function require non null mapper optional empty
+bi optional optional checked bi function<? super a,? super b, optional require non null mapper apply a b
+substring string end index context length before start index after before after
+selection selection iterable<? extends t> choices all iterator t it choices iterator it has next while not null it has next require non null it next collect to selection all
+substring pattern mapper pattern base pattern serial version uid match string str substring substring substring base match str substring mapper apply substring
+substring substring substring context start index
+substring substring substring context end index context length
+substring substring substring context start index context length
+case collector bi function<? super t,? super t,? extends r> collecting and then to tiny container c c only two elements
+bi optional t bi function function apply a b
+bi optional t bi function<? super a,? super b, t> combiner apply a b
+bi optional t bi function<? super a,? super b, t> combiner apply a b
+retryer t t return value
+more streams collector bi collector<? super a,? super b, r> collectors mapping both a b b b combine abstract map simple immutable entry downstream splitting map entry map entry
+maybe function checked function class require non null function require non null exception type from get function apply from exception type
+maybe supplier checked supplier class require non null supplier require non null exception type get supplier exception type
+maybe supplier checked supplier require non null supplier get checked supplier
+substring pattern java.util.regex. pattern require non null regex pattern str java util regex matcher matcher regex pattern matcher str matcher find optional of substring str matcher start matcher end optional empty
+traversal stream spliterator<? extends t> insertion order deque spliterator t deque array deque successor insertion order insert into deque initials while not empty deque map q remove from q successor insertion order filter n n
+more streams collector collecting each m m entry set stream collectors to map map entry map entry
+bi collectors collector function function bi stream grouping by to key and then classifier to value group reducer
+bi collectors collector function function collectors averaging int e mapper apply as int to key apply e to value apply e
+bi collectors collector function function collectors collecting and then collectors grouping by to key linked hash map collectors mapping to value value collector collections
+bi collectors collector function function collectors averaging long e mapper apply as long to key apply e to value apply e
+bi collectors collector function function collectors summarizing long e mapper apply as long to key apply e to value apply e
+bi collectors collector function function collectors averaging double e mapper apply as double to key apply e to value apply e
+bi collectors collector function function collectors summing int e mapper apply as int to key apply e to value apply e
+bi stream bi stream bi function<? super k,? super v,? extends bi stream<? extends k ,? extends v >> require non null mapper from underlying flat map kv mapper apply kv get key kv get value underlying
+substring substring substring context end index context length
+traversal t deque< spliterator<? extends t>> insertion order deque is empty spliterator t top deque get first top try advance t next advanced result visit next stream t successors find successors apply next successors successor insertion order insert into deque successors spliterator next deque remove first
+bi optional boolean bi predicate<? super a,? super b> predicate test a b
+lookup stream k v value map get key value stream empty stream of value
+lookup function function<? super t,? extends k> require non null key function input v value map get key function apply input value bi stream empty bi stream of input value
+substring string context substring start index
+substring string context substring end index
+maybe t or else throw maybe
+transliterate string string builder sb string builder sb append append name append sb append append translit phases size append phase p translit phases sb append p print phase sb to string
+transaction manager factory void jpa transaction manager jpa tm suppliers of instance new jpa tm
+cloud dns writer void immutable map retrier call with retry get mutate zone callback desired records zone state exception logger info
+allocation token immutable set null to empty immutable copy allowed client ids
+datastore transaction manager boolean object get ofy load key key create entity now
+datastore transaction manager void immutable collection get ofy save entities entities
+registrar string client identifier
+base fee response b list get instance fee force empty to null immutable list copy of fees this cast to derived
+domain check flow void register extensions launch check extension register extensions fee check command extensions in preference order
+metrics task servlet immutable map http servlet request set immutable map builder string object b immutable map builder set string parameter keys req get parameter map key set string key sets difference parameter keys filter b put key req get parameter key b build
+jpa transaction manager impl void object check argument not null entity assert in transaction get entity manager persist entity transaction info get add update entity
+jpa transaction manager impl void object check argument not null entity assert in transaction get entity manager merge entity transaction info get add update entity
+jpa transaction manager impl boolean string immutable set assert in transaction typed query integer query get entity manager create query string format entity name get and clause entity ids integer set max results entity ids for each entity id query set parameter entity id name entity id value query get result list size
+transfer response builder string get instance fully qualified domain name fully qualified domain name
+void dns writer module dns writer void dns writer writer
+registry config duration duration standard minutes
+registry string pricing engine class name
+epp resource utils string long string string format repo id roid suffix
+kms updater kms updater string set string login marksdb dnl login string
+icann reporting upload action byte gcs filename input stream gcs input gcs utils open input stream report filename byte streams to byte array gcs input
+registrar console module optional http servlet request extract optional parameter req param client id
+rdap json formatter string rfc string
+rdap json formatter string rfc string
+domain create flow history entry string period date time history builder set type history entry type domain create set period period set modification time now set parent key create domain resource repo id build
+domain info flow void register extensions fee info command extension v
+session utils optional string registrar contact contact ofy load type registrar contact filter gae user id first now contact optional absent string registrar client id contact get parent get name optional registrar result registrar load by client id cached registrar client id result is present logger severefmt key create contact result
+time of year date time date time date time with same year get date time with same year end is before or at with same year end with same year with same year minus years
+persistence module immutable map string string immutable map hash map string string overrides maps new hash map default configs overrides put environment url jdbc url overrides put hikari ds socket factory overrides put hikari ds cloud sql instance instance connection name immutable map copy of overrides
+persistence module jpa transaction manager string kms keyring immutable map clock hash map string string overrides maps new hash map cloud sql configs overrides put environment user username overrides put environment pass kms keyring get cloud sql password jpa transaction manager impl create overrides clock
+registry config string string project id
+premium list optional string optional of cache premium lists get name invalid cache load exception e optional empty execution exception e unchecked execution exception name e
+epp response builder immutable list<? extends response data> get instance res data res data
+session utils boolean registrar string registrar get contacts stream any match contact gae user id equals contact get gae user id
+domain allocate flow history entry string period date time history builder set type history entry type domain allocate set period period set modification time now set parent key create domain resource repo id build
+reserved list boolean registry key<? extends base domain label list registry get reserved lists contains key
+domain application create flow history entry string period date time history builder set type history entry type domain application create set period period set modification time now set parent key create domain application repo id build
+domain create flow boolean registry boolean registry get lrp period contains now is anchor tenant
+publish spec report action boolean date get day of month
+backup group root update auto timestamp update timestamp
+registrar immutable list null to empty immutable copy ip address whitelist
+premium list query ofy load type premium list entry ancestor revision key
+epp input boolean get resource type or else equals
+async flow enqueuer void host resource logger infofmt key create host retry options retry options retry options builder with min backoff seconds registry environment get config get async flow failure backoff get standard seconds task options task task options builder with url get path for action dns refresh for host rename action retry options retry options param param host key key create host get string method method get add task to queue with retry get queue task
+app engine connection string string map media type byte internal send endpoint params content type check not null payload
+kms keyring string get string string key label marksdb smdrl login string
+open rtb json ext writer void list json generator gen write array field start field name t item list object gen write start object write item gen object gen write end object gen write end array
+geo target string key canonical name
+geo target canonical key key
+double click open rtb mapper doubleclick. bid response. builder open rtb. bid request open rtb. bid response check not null request doubleclick bid response builder dc response doubleclick bid response new builder response has bidid dc response set debug string response get bidid seat bid seat bid response get seatbid list bid bid seat bid get bid list dc response add ad build response ad request response bid dc response
+double click metadata immutable map site lists
+double click metadata immutable map pub exc creative attributes
+double click metadata immutable map agencies
+double click metadata immutable map seller networks
+double click metadata immutable map country codes
+double click metadata immutable map ad sensitive categories
+double click metadata immutable map gdn vendors
+double click metadata immutable map all ad categories
+double click metadata immutable map content labels
+double click metadata immutable map buy dec creative attributes
+double click open rtb native mapper native request. asset. builder network bid. bid request. ad slot. native ad template dc nativ has body max safe length native request asset builder asset new asset dc nativ get required fields network bid bid request ad slot native ad template fields body native request asset data builder data native request asset data new builder set type native request asset data data asset type desc set len dc nativ get body max safe length ext map native dc nativ asset set data data fail req asset dc nativ network bid bid request ad slot native ad template fields body
+double click open rtb native mapper native request. asset. builder network bid. bid request. ad slot. native ad template native request asset builder asset new asset dc nativ get required fields network bid bid request ad slot native ad template fields image native request asset image builder image native request asset image new builder set type native request asset image image asset type main dc nativ has image width image set wmin dc nativ get image width dc nativ has image height image set hmin dc nativ get image height ext map native dc nativ asset set img image
+double click open rtb native mapper void native response. asset native request. asset network bid. bid response. ad. native ad. builder matching req asset has title fail resp asset asset dc nat ad set headline asset get title get text
+double click open rtb native mapper native request. asset. builder network bid. bid request. ad slot. native ad template native request asset builder asset new asset dc nativ get required fields network bid bid request ad slot native ad template fields advertiser ext map native dc nativ asset set data native request asset data new builder set type native request asset data data asset type sponsored
+double click open rtb native mapper native request. asset. builder network bid. bid request. ad slot. native ad template native request asset builder asset new asset dc nativ get required fields network bid bid request ad slot native ad template fields logo native request asset image builder image native request asset image new builder set type native request asset image image asset type logo dc nativ has logo width image set wmin dc nativ get logo width dc nativ has logo height image set hmin dc nativ get logo height ext map native dc nativ asset set img image
+double click open rtb native mapper native request. asset. builder network bid. bid request. ad slot. native ad template dc nativ has price max safe length native request asset builder asset new asset dc nativ get required fields network bid bid request ad slot native ad template fields price ext map native dc nativ asset set data native request asset data new builder set type native request asset data data asset type price set len dc nativ get price max safe length fail req asset dc nativ network bid bid request ad slot native ad template fields price
+double click open rtb native mapper native request. asset. builder network bid. bid request. ad slot. native ad template dc nativ has store max safe length native request asset builder asset new asset dc nativ get required fields network bid bid request ad slot native ad template fields store ext map native dc nativ asset set data native request asset data new builder set type native request asset data data asset type address set len dc nativ get store max safe length fail req asset dc nativ network bid bid request ad slot native ad template fields store
+country codes string alpha
+country codes string alpha
+double click open rtb mapper network bid. bid request. builder open rtb. bid request unsupported operation exception
+double click open rtb mapper network bid. bid response. builder open rtb. bid request open rtb. bid response check not null request network bid bid response builder dc response network bid bid response new builder response has bidid dc response set debug string response get bidid seat bid seat bid response get seatbid list bid bid seat bid get bid list dc response add ad build response ad request response bid dc response
+double click open rtb mapper void bid network bid. bid response. ad. builder imp multisize matching imp get extension dc ext ad slot get width count multisize matching imp get instl bid has w bid has h dc ad set width bid get w dc ad set height bid get h missing size inc logger is debug enabled logger debug multisize text format short debug string bid
+double click open rtb mapper deal. builder network bid. bid request. ad slot. matching ad data. direct deal dc deal has direct deal id deal builder deal deal new builder set id string value of dc deal get direct deal id dc deal has fixed cpm micros deal set bidfloor dc deal get fixed cpm micros micros per currency unit dc deal has deal type auction type at deal type mapper to open rtb dc deal get deal type at deal set at at deal
+double click open rtb mapper publisher. builder network bid. bid request dc request has seller network id publisher builder publisher publisher new builder set id string value of dc request get seller network id string seller network metadata seller networks get dc request get seller network id seller network publisher set name seller network publisher
+double click crypto long byte price cipher length overhead size payload size double click crypto exception price cipher length overhead size payload size plain data decrypt price cipher byte buffer wrap plain data get long payload base
+double click crypto byte long byte plain data init plain data payload size init vector byte buffer wrap plain data put long payload base price value encrypt plain data
+main activity void string int string int run on ui thread runnable run patch view remove connection source source port sink sink port
+url device double string m extra data opt double key
+url device json array string m extra data opt json array key
+url device json object string m extra data opt json object key
+main activity void beacon config fragment beacon config fragment beacon config fragment new instance get fragment manager begin transaction set custom animations r anim fade in and slide up fragment r anim fade out fragment r anim fade in activity r anim fade out fragment replace r id main activity container beacon config fragment add to back stack commit
+pwo discovery service void pwo response callback m pwo response callbacks remove pwo response callback
+beacon config fragment void view m status text view set text get string r string config writing to beacon text m configurable beacon linear layout clear focus string url m configurable beacon url edit text get text to string beacon config helper write beacon url get activity m nearest device url
+about fragment void web view web view web view get activity find view by id r id about webview web view get settings set java script enabled web view get settings set render priority web settings render priority high web view set web view client web view client web view load url get string r string url getting started
+uri beacon discovery service void get le scanner stop scan m scan callback
+pws result double string m extra data opt double key
+pws result json array string m extra data opt json array key
+protobuf java validator boolean import string import uri an import get import uri is empty import uri uri uri uri create uri import uri is empty uri scheme
+post compilation refresh target post compilation refresh target i preference store store get boolean refresh project project output folder
+string list preference list string split value delimiter
+type descriptions collection resource class list ie object description descriptions array list ie object description tree iterator object contents get all contents resource contents has next object next contents next target type is instance next t type target type cast next descriptions add all qualified names descriptions qualified names type qualified name name imported names provider names of type descriptions add create name type descriptions
+resources i editor part uri i file file file uri i editor input editor input file editor input file open file editor input
+protobuf proposal provider void message field content assist context i completion proposal acceptor field propose primitive values field context acceptor enum enum type finder enum type of field enum type propose and accept enum type context acceptor
+protobuf proposal provider void e object assignment content assist context i completion proposal acceptor proto descriptor descriptor descriptor provider primary descriptor collection property option properties descriptor available options for model option properties is empty propose options option properties context acceptor
+protobuf proposal provider void e object assignment content assist context i completion proposal acceptor collection ie object description scope scoping find message scope model ie object description d description chooser shortest qualified names in scope image image image helper get image images image for d get e object or proxy propose and accept d image context acceptor
+paths preference page void enable project options
+model object definition navigator query iterable i path query qualified names file path
+closeables boolean closeable c c close io exception ignored
+preference string name
+long value converter long string i node big integer value big integer string long value value long value long value long value number format exception e parsing error string node e
+proto descriptor provider proto descriptor info i configuration element config registry get configuration elements for extension id config i configuration element e config proto descriptor info info descriptor info e info info
+binding to list items void collection list remove all string s value list add s
+options property custom option simple property ref ref option get property field ref ref get property
+i nodes boolean i node string e object o node get grammar element o terminal rule terminal rule rule terminal rule o string actual name rule get name string name rule names name equals ignore case actual name
+i nodes boolean i node e object grammar element node get grammar element grammar element rule call abstract rule rule rule call grammar element get rule rule terminal rule terminal rule terminal rule terminal rule rule equals terminal rule get name
+protobuf scope provider collection protobuf model element finder find root complex type finder delegate message
+protobuf scope provider resource import resource set resource set finder root of an import e resource get resource set uri import uri create uri uri resolver apply an import resource set get resource import uri throwable t
+protobuf proposal provider boolean content assist context i completion proposal acceptor e object model context get current model model property property p property model modifier modifier p get modifier optional equals modifier compound element display default equal in brackets cursor position display index of closing bracket properties is string p display default equal string in brackets cursor position create and accept display cursor position context acceptor
+preference page void boolean grp output set enabled enabled lbl output folder name set enabled enabled txt output folder name set enabled enabled lbl output folder relative set enabled enabled
+preference page void boolean txt protoc file path set enabled enabled btn protoc path browse set enabled enabled
+preference page void boolean btn compile proto files set enabled enabled
+model nodes boolean i node was created by any comment node was created by string node
+type descriptions collection import class list ie object description descriptions array list ie object description proto descriptor descriptor descriptor provider descriptor an import get import uri type t descriptor all types target type is instance t t type target type cast t descriptions add all qualified names descriptions qualified names type descriptions
+protobuf cdt module void class binder binder bind type to provider getfrom protobuf plugin type
+editors i file i editor part i file editor get editor input get adapter i file
+add directory dialog directory path selected path
+properties boolean property abstract type reference r p get type r scalar type reference string type name scalar type reference r get scalar get name keywords string get value equals type name keywords bytes get value equals type name
+labels string message link name of link get target
+native option descriptions collection e object proto descriptor descriptor descriptor provider primary descriptor collection property properties descriptor available options for option e container properties is empty empty list describe properties
+internals injector protobuf activator get instance get injector language name
+protobuf scope provider collection abstract custom option option type option type type of abstract option option collection ie object description descriptions empty set option type descriptions ast walker traverse ast option custom option scope finder option type descriptions
+protobuf ui module class<? extends i preference store access> preference store access
+protobuf ui module class<? extends i semantic highlighting calculator> protobuf semantic highlighting calculator
+protobuf ui module class<? extends ie object documentation provider> protobuf documentation provider
+protobuf proposal provider void e object assignment content assist context i completion proposal acceptor field field extract field from context propose common field options field context acceptor
+import roots protoc option file i resource resource get location to file
+protobuf semantic highlighting calculator void service i highlighted position acceptor string rpc rpc service get rpcs highlight name rpc acceptor highlight id option option rpc get options highlight name option acceptor highlight id
+protobuf semantic highlighting calculator void field i highlighted position acceptor string field option option field get field options highlight name option acceptor highlight id
+protobuf proposal provider void property content assist context i completion proposal acceptor property propose primitive values property context acceptor enum enum type finder enum type of property enum type propose and accept enum type context acceptor
+e object finder enum property abstract type reference a type ref p get type a type ref type reference type type type reference a type ref get type type enum enum type
+proto descriptor provider proto descriptor string ensure proto descriptors are created descriptors get import uri
+i nodes boolean i node e object grammar element node get grammar element grammar element rule call abstract rule rule rule call grammar element get rule rule terminal rule terminal rule terminal rule terminal rule rule equals terminal rule get name
+i nodes boolean i node string node i leaf node e object o node get grammar element o terminal rule terminal rule rule terminal rule o comment rule name equals rule get name
+protobuf scope provider collection abstract custom option custom option field scope finder extension fields in scope option
+multiple directories file resolver string string string i file system file system efs get local file system i path path path import root separator import uri i file info file info file system get store path fetch info file info exists uri util to uri path to string
+options indexed element option option source source option get source source source get option field
+preference and property page void boolean preference preference enable project settings preference get preference store preference preference binder add bind selection of btn enable project settings to preference
+protobuf scope provider collection message field ast walker traverse ast field type scope finder complex type
+protobuf scope provider collection e object protobuf root model finder root of o ast walker traverse ast root type scope finder message
+protobuf scope provider collection custom option option type option type type of option collection ie object description descriptions empty set option type descriptions ast walker traverse ast option custom option scope finder option type descriptions
+protobuf scope provider collection custom field option option type option type type of option collection ie object description descriptions empty set option type descriptions ast walker traverse ast option custom option scope finder option type descriptions
+directory selection dialogs string shell string directory dialog dialog directory dialog shell swt open swt application modal filter path filter path trim length dialog set filter path filter path dialog set message select file system directory dialog open
+type scope finder collection import object set ie object description descriptions hash set ie object description proto descriptor descriptor descriptor provider descriptor an import get import uri complex type type descriptor all types is instance type criteria descriptions add all qualified names descriptions qualified names type descriptions
+console printer void string out println s
+console printer void string out println s
+implementations matcher string matcher re matcher pattern matcher str
+safe urls safe url safe html string data url base encoding base encode html get safe html string get bytes create data url unsupported encoding exception e runtime exception e
+flags string string gflags parser parser gflags parser flags parser parse args unused args to array string
+git repo void run command
+formatter tool void string runtime get runtime exec cmd
+git repo string run command stdout
+flags void iterable string package name packages class scanner scan package package name flags io exception e runtime exception package name e
+git repo string string run command branch stdout trim
+git repo immutable list unsupported operation exception
+multimap subject ordered multimap check not null expected multimap contains exactly expected multimap
+class subject void string get subject failure strategy fail reflection util get field get subject field name no such field exception e string builder message string builder message append append get subject get simple name append message append append field name append failure strategy fail message to string
+subject void fact fact do fail sandwich first rest but was
+subject void iterable do fail append immutable list copy of facts but was
+stream subject ordered iterable check that actual list contains at least elements in expected
+subject s string custom label label s
+iterable subject ordered collection collection collection near miss raw objects retain matching to string actual missing raw objects immutable list builder fact facts immutable list builder facts add all make element facts for both missing raw objects near miss raw objects facts add fact expected facts add but was fail without actual facts build already failed
+primitive double array subject boolean double number double double to long bits actual double double to long bits checked to double expected
+iterable subject void iterable iterator t actual items get subject iterator object expected expected items actual items has next fail expected items object actual actual items next actual expected actual actual equals expected fail expected items actual items has next fail expected items
+field scope impl boolean context cache field number tree matches context field path context field
+re j subjects boolean string string pattern compile regex matcher subject find
+iterable subject void iterable collection actual iterable to collection actual object item expected actual contains item has matching to string pair actual expected fail with raw message actual as string iterable to string with type info expected count duplicates and add type info retain matching to string actual expected fail expected
+iterable subject void iterable collection actual iterable to collection actual collection object present array list object item sets new linked hash set excluded actual contains item present add item present is empty fail with bad results annotate empty strings excluded annotate empty strings present
+iterable subject void comparator<? super t> check not null comparator pairwise check pairwise checker t check t prev t next comparator compare prev next fail prev next
+iterable subject list e list<? extends a> correspondence. exception store list object extras formatted array list a extra extras string diff correspondence safe format diff extra missing exceptions diff extras formatted add lenient format extra diff extras formatted add extra extras formatted
+fact fact string fact key
+subject t actual
+platform boolean object class clazz is instance instance
+subject s string custom label label s
+abstract verb delegated verb sf delegated verb s t get failure strategy factory
+math util boolean double double double doubles is finite left doubles is finite right math abs left right math abs tolerance
+field scope impl boolean context cache context field is present matches field descriptor context descriptor context field get specific field field context field path field descriptor specific field descriptor field get field specific field descriptor matches field descriptor context descriptor specific field descriptor
+field scope impl boolean context cache field number tree matches context field path context field
+field scope impl boolean context cache elements get matches field path context cache
+subject void class clazz null pointer exception get subject platform is instance of type get subject clazz fail with raw message get display subject clazz get name
+multimap subject ordered multimap check about iterable entries that actual entries comparing elements using entry correspondence k a v correspondence contains at least elements in expected multimap entries
+subject void object actual expected fail equality check same instance expected compare for equality expected without description
+subject void object actual unexpected fail without actual fact actual custom string representation
+bytecode bound class retention policy retention get
+http client stack void http uri request map string key headers key set http request set header key headers get key
+screen response fragment void deltas clear deltas b w clear deltas w b clear initiated blinks detected blinks black box set text black box set background color color white is box white handler post delayed start blinking
+walt usb connection void if idx ep in idx ep out idx usb interface iface m usb device get interface if idx m usb connection claim interface iface m logger log m logger log m endpoint in iface get endpoint ep in idx m endpoint out iface get endpoint ep out idx sync clock io exception e m logger log e get message
