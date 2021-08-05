@@ -11,15 +11,20 @@
 # Reproducing Procedure
 
 - Constructing NaturalData
-   1. Collect the repositories listed in the Data/TestingRepos.txt
+   1. Collect the repositories listed in the Data/TestingRepos.txt, assume it is stored in the directory Data/JavaRepos
    2. Collect inconsistent methods
       * unzip Jars.zip
-      * java -jar Jars/CommitDiff.jar 
-      * java -jar Jars/RenamedMethodsCollector.jar
+      * java -jar Jars/CommitDiff.jar JavaReposPath ReposList OutputPath
+      e.g., java -jar Jars/CommitDiff.jar Data/JavaRepos Data/JavaRepos/TestingRepos.txt ~/OutputPath_CommitDiffs
+      * java -jar Jars/RenamedMethodsCollector.jar ReposList CommitDiffPath OutputPath
+      e.g., java -jar Jars/RenamedMethodsCollector.jar Data/JavaRepos/TestingRepos.txt ~/OutputPath_CommitDiffs/CommitDiffs ~/OutputPath_RenamedMethods
    3. Collect consistent methods
-      * java -jar Jars/rollBackRepos.jar 
-      * java -jar Jars/JavaFileGetter.jar
-      * java -jar Jars/MethodParser.jar
+      * put MCC/reposAndLongestDuration.txt to /tmp and run java -jar Jars/rollBackRepos.jar 
+      * java -jar Jars/JavaFileGetter.jar ReposList
+      e.g., java -jar Jars/JavaFileGetter.jar Data/JavaRepos/TestingRepos.txt 
+      * java -jar Jars/MethodParser.jar allJavaFilesFile OutputPath
+      e.g., java -jar Jars/MethodParser.jar ~/JavaFiles.txt ~/OutputPath_ParsedMethods
+      
 - Reproducing LIU's
 
 To reproduce the performance of LIU's, one can find the source code and detailed procedures in https://github.com/SerVal-DTF/debug-method-name.
