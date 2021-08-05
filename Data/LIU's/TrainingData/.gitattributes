@@ -1,2 +1,0 @@
-TrainingMethodBodyTokens.txt filter=lfs diff=lfs merge=lfs -text
-TrainingMethodInfo.txt filter=lfs diff=lfs merge=lfs -text
