@@ -16,7 +16,6 @@
    
    2. Collect inconsistent methods
    
-      * uncompress Jars.7z
 	  
       * java -jar Jars/CommitDiff.jar JavaReposPath ReposList OutputPath
       e.g., java -jar Jars/CommitDiff.jar Data/JavaRepos Data/JavaRepos/TestingRepos.txt ~/OutputPath_CommitDiffs
