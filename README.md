@@ -57,6 +57,8 @@ To reproduce the performance of LIU's, one can find the source code and detailed
       * The method body keep untouched.
       * Both the method name and body keep untouched until the latest commit ever since the renaming.
    > cd debug-method-name/RenamedMethodsCollector
+   
+   
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.Main
 
 ### Identifying Consistent Method Names
@@ -64,6 +66,8 @@ To reproduce the performance of LIU's, one can find the source code and detailed
 #### Nail Down the Specific **n** for Each Project
 
    > cd MCC
+   
+   
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.Main
 
 
@@ -72,16 +76,22 @@ To reproduce the performance of LIU's, one can find the source code and detailed
    1. Roll each project to **n** commits ago (**n** is the largest duration between the creation time of a method and its first rename in each specific project.)
    
    > cd MCC
+   
+   
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.ResetGitRepos
 
    2. Configure the data path and extract all the methods in this snapshot commit.
    
    > cd debug-method-name/DebugMethodName
+   
+   
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.MainParser
 
    3. Only keep the methods which are untouched until the latest commit.
 
    > cd MCC
+   
+   
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.DataPreparer4Con
 
 
