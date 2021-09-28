@@ -15,112 +15,6 @@ import logging
 
 from torch.backends._nnapi.serializer import LOG
 
-
-# def get_model(PARAMS):
-#     num_words = 30000
-#     encoder_input = Input(shape=(None,), name='encoder_input')
-#
-#     embedding_size = PARAMS.get("embedding_size")
-#     # embedding_size = 128
-#
-#     encoder_embedding = Embedding(input_dim=num_words,
-#                                   output_dim=embedding_size,
-#                                   name='encoder_embedding')
-#
-#     state_size = 512
-#
-#     encoder_gru1 = GRU(state_size, name='encoder_gru1',
-#                        return_sequences=True)
-#     encoder_gru2 = GRU(state_size, name='encoder_gru2',
-#                        return_sequences=True)
-#     encoder_gru3 = GRU(state_size, name='encoder_gru3',
-#                        return_sequences=False)
-#
-#     def connect_encoder():
-#         # Start the neural network with its input-layer.
-#         net = encoder_input
-#
-#         # Connect the embedding-layer.
-#         net = encoder_embedding(net)
-#
-#         # Connect all the GRU-layers.
-#         net = encoder_gru1(net)
-#         net = encoder_gru2(net)
-#         net = encoder_gru3(net)
-#
-#         # This is the output of the encoder.
-#         encoder_output = net
-#
-#         return encoder_output
-#
-#     encoder_output = connect_encoder()
-#
-#     decoder_initial_state = Input(shape=(state_size,),
-#                                   name='decoder_initial_state')
-#
-#     decoder_input = Input(shape=(None,), name='decoder_input')
-#
-#     decoder_embedding = Embedding(input_dim=num_words,
-#                                   output_dim=embedding_size,
-#                                   name='decoder_embedding')
-#
-#     decoder_gru1 = GRU(state_size, name='decoder_gru1',
-#                        return_sequences=True)
-#     decoder_gru2 = GRU(state_size, name='decoder_gru2',
-#                        return_sequences=True)
-#     decoder_gru3 = GRU(state_size, name='decoder_gru3',
-#                        return_sequences=True)
-#
-#     decoder_dense = Dense(num_words,
-#                           activation='linear',
-#                           name='decoder_output')
-#
-#     def connect_decoder(initial_state):
-#         # Start the decoder-network with its input-layer.
-#         net = decoder_input
-#
-#         # Connect the embedding-layer.
-#         net = decoder_embedding(net)
-#
-#         # Connect all the GRU-layers.
-#         net = decoder_gru1(net, initial_state=initial_state)
-#         net = decoder_gru2(net, initial_state=initial_state)
-#         net = decoder_gru3(net, initial_state=initial_state)
-#
-#         # Connect the final dense layer that converts to
-#         # one-hot encoded arrays.
-#         decoder_output = decoder_dense(net)
-#
-#         return decoder_output
-#
-#     decoder_output = connect_decoder(initial_state=encoder_output)
-#
-#     model_train = Model(inputs=[encoder_input, decoder_input],
-#                         outputs=[decoder_output])
-#
-#     model_encoder = Model(inputs=[encoder_input],
-#                           outputs=[encoder_output])
-#
-#     decoder_output = connect_decoder(initial_state=decoder_initial_state)
-#
-#     model_decoder = Model(inputs=[decoder_input, decoder_initial_state],
-#                           outputs=[decoder_output])
-#
-#     optimizer = RMSprop(lr=PARAMS.get("learning_rate"))
-#
-#     model_train.compile(optimizer=optimizer,
-#                         loss=sparse_cross_entropy)
-#
-#     return model_train,model_encoder,model_decoder
-
-
-
-# def run(x_data, y_data, model,validation_split,model_encoder,model_decoder):
-    # kf = KFold(n_splits=5)
-
-    # score = scores.mean()
-    # nni.report_final_result(score)
-
 def sparse_cross_entropy(y_true, y_pred):
     """
     Calculate the cross-entropy loss between y_true and y_pred.
@@ -154,10 +48,10 @@ def sparse_cross_entropy(y_true, y_pred):
 
 def get_default_parameters():
     params = {
-        'learning_rate': 0.02,
-        'embedding_size': 300,
+        'learning_rate': 0.001,
+        'embedding_size': 128,
         'batch_size': 1024,
-        'state_size': 512
+        'state_size': 256
 
     }
     return params
