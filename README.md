@@ -1,4 +1,4 @@
-# Empirical Study of Method Name Consistency Checking
+# Deep Learning Based Identification of Inconsistent Method Names: How Far Are We?
 
 # Table Of Contents
 
