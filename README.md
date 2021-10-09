@@ -22,25 +22,31 @@ To reproduce the performance of LIU's, one can find the source code and detailed
 ### Requirements
 
 > **Hardware:** 
+
 > OS: Ubuntu 18.04.1; CPU: 32 * Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz; GPU: 4* TITAN RTX; RAM: 128GB   
+
 > **Software:**
+
 > Python-3.7.9 
-> tensorflow-2.2.0
-> And packages listed in ICSE2020/conda_environment_list.txt
+
+> Tensorflow-2.2.0
+
+> And other requirements listed in ICSE2020/conda_environment_list.txt
 
 ### Procedures  
    1. Prepare the environment: 
    
-   > conda install --yes --file conda_environment_list.txt
+   > conda install --yes --file ICSE2020/conda_environment_list.txt 
 
    2. Configure Jupyter notebook in your environment.
+   
    3. Train and tune the model by running 
 
    > nnictl create --config ICSE2020/Tuning/config.yml
    
    4. Predict method names by running ICSE2020/predict.ipynb using the model generated from step 3.
    
-   5. Get the final identification results by running MCC/src/main/java/org/bit/util/functions/ICSE2020_evaluate.java
+   5. Get the final identification results by running MCC/src/main/java/edu/lu/uni/serval/renamed/methods/ICSE2020_evaluate.java
    
 
 ## BenMark Construction
@@ -67,10 +73,7 @@ To reproduce the performance of LIU's, one can find the source code and detailed
 
    > cd MCC
    
-   
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.Main
-
-
 
 #### Collect Consistent Method Names
    1. Roll each project to **n** commits ago (**n** is the largest duration between the creation time of a method and its first rename in each specific project.)
@@ -93,10 +96,6 @@ To reproduce the performance of LIU's, one can find the source code and detailed
    
    
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.DataPreparer4Con
-
-
-	  
-      
 
 
 # References
