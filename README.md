@@ -26,11 +26,8 @@ To reproduce the performance of LIU's, one can find the source code and detailed
 > OS: Ubuntu 18.04.1; CPU: 32 * Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz; GPU: 4* TITAN RTX; RAM: 128GB   
 
 > **Software:**
-
-> Python-3.7.9 
-
-> Tensorflow-2.2.0
-
+> Python-3.7.9;
+> Tensorflow-2.2.0;
 > And other requirements listed in ICSE2020/conda_environment_list.txt
 
 ### Procedures  
@@ -46,7 +43,9 @@ To reproduce the performance of LIU's, one can find the source code and detailed
    
    4. Predict method names by running ICSE2020/predict.ipynb using the model generated from step 3.
    
-   5. Get the final identification results by running MCC/src/main/java/edu/lu/uni/serval/renamed/methods/ICSE2020_evaluate.java
+   5. Get the final identification results 
+   
+   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.ICSE2020_evaluate
    
 
 ## BenMark Construction
@@ -69,17 +68,9 @@ To reproduce the performance of LIU's, one can find the source code and detailed
 
 ### Identifying Consistent Method Names
 
-#### Nail Down the Specific **n** for Each Project
-
-   > cd MCC
-   
-   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.Main
-
-#### Collect Consistent Method Names
    1. Roll each project to **n** commits ago (**n** is the largest duration between the creation time of a method and its first rename in each specific project.)
    
    > cd MCC
-   
    
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.ResetGitRepos
 
@@ -87,13 +78,11 @@ To reproduce the performance of LIU's, one can find the source code and detailed
    
    > cd debug-method-name/DebugMethodName
    
-   
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.MainParser
 
    3. Only keep the methods which are untouched until the latest commit.
 
    > cd MCC
-   
    
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.DataPreparer4Con
 
