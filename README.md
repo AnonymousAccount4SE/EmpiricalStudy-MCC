@@ -53,7 +53,7 @@ Since Nguyen et al. did not make their source code available, we emailed them an
    
    > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.ICSE2020_evaluate.java
    
-## Run CAN [<sup>2</sup>](#can)
+## Run CAN [<sup>3</sup>](#can)
 
 To reproduce the performance of Allamanis et al., one can find the source code and detailed procedures in https://groups.inf.ed.ac.uk/cup/codeattention.
 
@@ -73,7 +73,7 @@ To reproduce the performance of Allamanis et al., one can find the source code a
    > cd debug-method-name/RenamedMethodsCollector
    
    
-   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.Main
+   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.Main.java
 
 ### Identifying Consistent Method Names
 
@@ -81,19 +81,19 @@ To reproduce the performance of Allamanis et al., one can find the source code a
    
    > cd MCC
    
-   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.ResetGitRepos
+   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.ResetGitRepos.java
 
    2. Configure the data path and extract all the methods in this snapshot commit.
    
    > cd debug-method-name/DebugMethodName
    
-   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.MainParser
+   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.MainParser.java
 
    3. Only keep the methods which are untouched until the latest commit.
 
    > cd MCC
    
-   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.DataPreparer4Con
+   > java -cp "target/dependency/*" -Xmx8g edu.lu.uni.serval.renamed.methods.DataPreparer4Con.java
    
 ### Using BenMark
 	
